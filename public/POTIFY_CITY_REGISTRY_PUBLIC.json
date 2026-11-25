@@ -1,0 +1,3881 @@
+{
+  "title": "$POTIFY: A Wonderful High Life",
+  "version": "1.0.0",
+  "date": "2026-11-04",
+  "replit_game_url": "https://replit.com/@jonathanbabec5/CompetentEminentAlgorithms",
+  "disclaimer": "Design registry. LOCKED is product direction or known story fact, not shipped functionality; no feature verified by this export.",
+  "statuses": {
+    "LOCKED": "owner-established creative direction",
+    "DESIGN": "concept under discussion",
+    "FUTURE": "possible later feature",
+    "ART_ONLY": "present in concept art only",
+    "OPEN": "unresolved decision"
+  },
+  "visibility": {
+    "PUBLIC": "safe to publish when accurately status-labeled",
+    "PUBLIC_HINT_ONLY": "publish only hint-level summary",
+    "REDACTED_OPEN": "do not invent answer"
+  },
+  "sections": [
+    {
+      "code": "ROOT",
+      "title": "01 · Game identity, pillars and boundaries",
+      "entries": [
+        {
+          "id": "ROOT-001",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "Working game title",
+          "status": "LOCKED",
+          "description": "$POTIFY: A Wonderful High Life; short universe label POTIFY City, with title treatment of A Wonderful High Life.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-002",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "Central genre",
+          "status": "LOCKED",
+          "description": "Original cozy 3D farming/life simulator rooted in early-2000s GameCube-era pacing and controls, set in a fictional cannabis-growing city.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-003",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "Inspirational lineage",
+          "status": "LOCKED",
+          "description": "Emulate the feeling of Harvest Moon: A Wonderful Life and some Animal Crossing social exploration; do not reproduce copyrighted code, maps, layouts, characters, music or art assets.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-004",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "The city is the farm",
+          "status": "LOCKED",
+          "description": "Small grow plot or rooftop greenhouse at first; a living neighborhood and progressively larger property replace the traditional inherited farm.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-005",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "Daily life first",
+          "status": "LOCKED",
+          "description": "In-world movement, chores, seasons, conversation, shopping, sleeping and meaningful passage of time drive gameplay.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-006",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "Grow–harvest–sell–upgrade",
+          "status": "LOCKED",
+          "description": "The repeatable backbone of the game: acquire fictional genetics and supplies, care for virtual plants, harvest, sell, expand.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-007",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "Seed → Soil → Solana",
+          "status": "LOCKED",
+          "description": "Canonical POTIFY motto may appear subtly on books, signs, murals, ending titles and the journal.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-008",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "The city has history",
+          "status": "LOCKED",
+          "description": "Small details should imply that the town existed before the player arrived; do not explain every mystery with exposition.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-009",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "Wonder without glitter",
+          "status": "LOCKED",
+          "description": "Calm, grounded, witty, inhabited; little magical moments are rare and earn their impact.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-010",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "Shylo's identity",
+          "status": "LOCKED",
+          "description": "Shylo is a gray/cream Norwegian Elkhound with pointed ears and a curled tail; ambient supporting companion, not the central mascot.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-011",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "Fictional commerce",
+          "status": "LOCKED",
+          "description": "The game does not sell, deliver, redeem or enable purchases of real-world cannabis.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-012",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "No financial promises",
+          "status": "LOCKED",
+          "description": "Gameplay achievements, lore and Easter eggs do not promise real crypto, price appreciation or holder rewards.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-013",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "Work in public",
+          "status": "LOCKED",
+          "description": "Publish honest visual concepts, feature progress and changelogs without leaking puzzle answers or calling concepts finished gameplay.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-014",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "Clear feature status",
+          "status": "LOCKED",
+          "description": "User requests, concept art, assigned Replit work and actually verified playable functions are different evidence levels.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-015",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "No platform claims",
+          "status": "LOCKED",
+          "description": "No Steam, Epic, Xbox, PlayStation, Nintendo or other distribution support can be claimed without a verified release plan/approval.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-016",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "GLP separation",
+          "status": "LOCKED",
+          "description": "GreenLight Pay is unrelated to the fictional game economy and never presented as payment processing or token utility for this game.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-017",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "The first scene",
+          "status": "DESIGN",
+          "description": "Wake in a modest room, notice a written task list, step into early morning, and survey a neglected growing space.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-018",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "Emotional arc",
+          "status": "DESIGN",
+          "description": "Player learns responsibility through failure, rebuilding, friendships, and incremental improvements—not fast-money fireworks.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-019",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "Game identity shorthand",
+          "status": "DESIGN",
+          "description": "From one rooftop (or modest plot) to a living city, with a long-term chapter of stewardship rather than an instant empire.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROOT-020",
+          "section": "01 · Game identity, pillars and boundaries",
+          "title": "Final IP and game publisher structure",
+          "status": "OPEN",
+          "description": "Working title and design are set; trademark/rights, age ratings, official business ownership and platform agreements require separate verification.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "ART",
+      "title": "02 · Visual direction, interface and presentation",
+      "entries": [
+        {
+          "id": "ART-001",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "GameCube-era mood",
+          "status": "LOCKED",
+          "description": "Muted stylized 3D inspired by original A Wonderful Life rather than bright mobile anime or modern high-saturation remake aesthetics.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-002",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "Grounded colors",
+          "status": "LOCKED",
+          "description": "Worn olive, hay, dirt brown, weathered timber, concrete, brick, washed blue, soft yellow daylight, restrained green.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-003",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "No pink-first city",
+          "status": "LOCKED",
+          "description": "Avoid pink or lavender-dominated skies, giant cherry blossoms, pastel kawaii UI, glitter, neon everywhere.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-004",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "People look like residents",
+          "status": "LOCKED",
+          "description": "Modestly proportioned original 3D characters, readable silhouettes, worn practical clothes, human expressions.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-005",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "UI serves the chores",
+          "status": "LOCKED",
+          "description": "Real-time scene takes priority over menus; small tool/status HUD; only contextual dialogue and shop panels when needed.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-006",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "No poster-as-gameplay",
+          "status": "LOCKED",
+          "description": "Splash artwork is not proof of a 3D world; screenshots should come from the actual game when called gameplay.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-007",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "Originalized reference",
+          "status": "LOCKED",
+          "description": "Use user-approved calmer concept board as guiding composition, with actual game props and work replacing decorative UI panels.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-008",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "Third-person camera",
+          "status": "DESIGN",
+          "description": "Slightly above-and-behind follow camera, gentle perspective, manual turn and restrained distance options.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-009",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "Weathering and aging",
+          "status": "DESIGN",
+          "description": "Wood chips, weather stains, dusty shelves, slightly crooked signs, used tools, creek stones, weeds between paving stones.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-010",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "Interior lighting",
+          "status": "DESIGN",
+          "description": "Greenhouse daylight and subtle magenta grow lights only where justified; softer shadows indoors.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-011",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "Sky and clouds",
+          "status": "DESIGN",
+          "description": "Blue-gray mornings, warm amber evenings, genuine dusk; cloud coverage changes by weather.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-012",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "Plant silhouettes",
+          "status": "DESIGN",
+          "description": "Obvious visual difference between small vegetative plants, flowering plants and harvest-ready crops.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-013",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "Shopfront typography",
+          "status": "DESIGN",
+          "description": "Painted shop signs and parchment-style tooltips; not huge hovering branded signs on every corner.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-014",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "Journal graphics",
+          "status": "DESIGN",
+          "description": "Handwritten notebook, worn paper tabs, pressed-leaf bookmarks and map annotation stickers.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-015",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "Map design",
+          "status": "DESIGN",
+          "description": "Hand-drawn village/district sketch with discovered locations; no false claims that all neighborhoods are unlocked.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-016",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "Character portrait restraint",
+          "status": "DESIGN",
+          "description": "Optional dialogue portraits, original design, no oversized chibi eyes.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-017",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "Visible domesticity",
+          "status": "DESIGN",
+          "description": "A sink, bed, dirty boots, calendar, kettle, hallway, shelf and meaningful storage.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-018",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "Gentle animations",
+          "status": "DESIGN",
+          "description": "Breathing, head turns, routine idle behavior, watering, sorting harvests, sweeping, opening storefronts.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-019",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "An imperfect town",
+          "status": "DESIGN",
+          "description": "Trucks, billboards, fences, service alleys, little hill trails and quiet water rather than an amusement park.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ART-020",
+          "section": "02 · Visual direction, interface and presentation",
+          "title": "Visual reward cadence",
+          "status": "DESIGN",
+          "description": "Big reveal for a building upgrade or first harvest; everything else subtle.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "GEO",
+      "title": "03 · Districts, geography and transportation",
+      "entries": [
+        {
+          "id": "GEO-001",
+          "section": "03 · Districts, geography and transportation",
+          "title": "POTIFY City exists as setting",
+          "status": "LOCKED",
+          "description": "Fictional urban district system with a main square, residential area, growing district, shops and connected back routes.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-002",
+          "section": "03 · Districts, geography and transportation",
+          "title": "The Heights",
+          "status": "DESIGN",
+          "description": "Elevated district of homes, old roof plots, radio masts and views of the city, linked to initial grow space.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-003",
+          "section": "03 · Districts, geography and transportation",
+          "title": "Greenhouse Row",
+          "status": "DESIGN",
+          "description": "Series of modest attached glasshouses, weathered suppliers and garden repair shops.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-004",
+          "section": "03 · Districts, geography and transportation",
+          "title": "Central Plaza",
+          "status": "DESIGN",
+          "description": "Stone fountain, noticeboard, market days, festival area and NPC crossing point.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-005",
+          "section": "03 · Districts, geography and transportation",
+          "title": "The Market",
+          "status": "DESIGN",
+          "description": "Buyers and street stalls with schedule-sensitive prices and occasional seasonal goods.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-006",
+          "section": "03 · Districts, geography and transportation",
+          "title": "Riverside",
+          "status": "DESIGN",
+          "description": "Apartments and smaller homes by a creek/canal with footbridge, benches and quiet walks.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-007",
+          "section": "03 · Districts, geography and transportation",
+          "title": "The District",
+          "status": "DESIGN",
+          "description": "Workshops, cafes, seed suppliers, trade counters, locally owned stores and varied residents.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-008",
+          "section": "03 · Districts, geography and transportation",
+          "title": "The Labs",
+          "status": "DESIGN",
+          "description": "Applied fiction genetics/research precinct, gradually accessible through research progression.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-009",
+          "section": "03 · Districts, geography and transportation",
+          "title": "The Underground",
+          "status": "DESIGN",
+          "description": "Rumored drains, utility passages and forgotten basement corridors; not prominent on starting map.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-010",
+          "section": "03 · Districts, geography and transportation",
+          "title": "The Park",
+          "status": "DESIGN",
+          "description": "Relaxed area for walking, festivals, conversations, collectibles and seasonal change.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-011",
+          "section": "03 · Districts, geography and transportation",
+          "title": "Orchard Edge",
+          "status": "DESIGN",
+          "description": "Quiet green belt near city where forest paths contrast with concrete, without making it a new farm simulator.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-012",
+          "section": "03 · Districts, geography and transportation",
+          "title": "Old Industrial Ward",
+          "status": "DESIGN",
+          "description": "Late-game warehouse zones, practical equipment yards and production logistics.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-013",
+          "section": "03 · Districts, geography and transportation",
+          "title": "City Hall and Clock Tower",
+          "status": "DESIGN",
+          "description": "Public building with records, town notices and clock references, no oversized monument.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-014",
+          "section": "03 · Districts, geography and transportation",
+          "title": "Rooftop Walkways",
+          "status": "DESIGN",
+          "description": "Limited bridges and ladders linking roofs when unlocking these paths makes navigational sense.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-015",
+          "section": "03 · Districts, geography and transportation",
+          "title": "The Canal Walk",
+          "status": "DESIGN",
+          "description": "Nighttime streetlights reflect on water; seasonal vendors and rare dialogue appear.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-016",
+          "section": "03 · Districts, geography and transportation",
+          "title": "Backstreet Courtyard",
+          "status": "DESIGN",
+          "description": "Small everyday location for deliveries, trash bins, murals and subtle hidden triggers.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-017",
+          "section": "03 · Districts, geography and transportation",
+          "title": "Home lane",
+          "status": "DESIGN",
+          "description": "Starter house or apartment connected to starter grow space by a walkable path.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-018",
+          "section": "03 · Districts, geography and transportation",
+          "title": "Local buses and tram",
+          "status": "FUTURE",
+          "description": "Potential schedule-based transport after walking map exists and is satisfying.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-019",
+          "section": "03 · Districts, geography and transportation",
+          "title": "Bicycle",
+          "status": "FUTURE",
+          "description": "Optional mobility upgrade, with safe street-level route rules.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-020",
+          "section": "03 · Districts, geography and transportation",
+          "title": "Day-night city routes",
+          "status": "FUTURE",
+          "description": "Vendors change posts, street lamps operate and some gates close with time.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GEO-021",
+          "section": "03 · Districts, geography and transportation",
+          "title": "Definitive layout",
+          "status": "OPEN",
+          "description": "Exact relative positions and travel times remain design work; concept maps are not canonical exact geometries.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "VEN",
+      "title": "04 · Buildings, shops and indoor spaces",
+      "entries": [
+        {
+          "id": "VEN-001",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "Starter home",
+          "status": "DESIGN",
+          "description": "Bed, calendar, inventory shelf, handwritten chore list, basic wardrobe, journal and a small outdoor transition.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-002",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "Rooftop starter plot",
+          "status": "DESIGN",
+          "description": "Four workable sites, salvaged buckets, a creaky gate, nearby water and a weathered bench.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-003",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "Beginner greenhouse",
+          "status": "DESIGN",
+          "description": "First useful expanded structure; shelter, modest capacity and visible cost/upkeep.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-004",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "Seed Bank",
+          "status": "DESIGN",
+          "description": "Starter genetics and finite stock, seasonal and relationship-gated items, collectible label designs.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-005",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "Soil and Supply",
+          "status": "DESIGN",
+          "description": "Soil mixes, nutrients represented as simplified game items, watering tools, compost/repair upgrades.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-006",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "POTIFY Dispensary",
+          "status": "DESIGN",
+          "description": "Fictional in-world buyer for virtual harvest, not a real dispensary or real-world transaction link.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-007",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "The Grow Shop",
+          "status": "DESIGN",
+          "description": "Practical equipment, fans and lighting upgrades, maintenance tasks and price board.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-008",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "Genetics Lab",
+          "status": "DESIGN",
+          "description": "Research table, small original mini-games, hybrid trait records and lab NPC arc.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-009",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "Research Annex",
+          "status": "DESIGN",
+          "description": "Optional Chapter 2 site where rare genetics clues, lost records and town history converge.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-010",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "Town Market Stalls",
+          "status": "DESIGN",
+          "description": "Limited opening hours and scheduled market days.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-011",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "The Soil Cafe",
+          "status": "DESIGN",
+          "description": "Neighborhood social meeting spot; menu and NPC schedules rather than real-world commerce.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-012",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "The Lounge",
+          "status": "DESIGN",
+          "description": "Music and nighttime conversation, low-key ambience, optional non-player events.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-013",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "DJ Booth",
+          "status": "DESIGN",
+          "description": "Town-owned community venue with audio collectibles and rotating performances.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-014",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "Mechanic's Shop",
+          "status": "DESIGN",
+          "description": "Roof repairs, generators, plumbing upgrades and broken irrigation line quests.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-015",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "Archive and Library",
+          "status": "DESIGN",
+          "description": "Books, paper archives, local photographs, Chronicle excerpts, book lending.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-016",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "Warehouse",
+          "status": "DESIGN",
+          "description": "Expansion from handmade work to larger operation, maintaining resource/time constraints.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-017",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "Cold Storage",
+          "status": "DESIGN",
+          "description": "Product inventory, spoilage timers as game mechanics, sorting and packing.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-018",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "Friend's Apartment",
+          "status": "DESIGN",
+          "description": "An unlockable interior for a meaningful NPC story rather than endless identical interiors.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-019",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "The Old Observatory",
+          "status": "DESIGN",
+          "description": "Rooftop quiet place, astronomy and long-distance city vista; secret unlock candidate.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-020",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "The Arcade",
+          "status": "DESIGN",
+          "description": "Retro local venue; candidate for an original playable Vape God reference.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-021",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "The Inn",
+          "status": "DESIGN",
+          "description": "Temporary visitor rooms and seasonal arrivals; only if NPC system supports traveler schedules.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-022",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "Extra farm lots",
+          "status": "FUTURE",
+          "description": "Multiple properties across districts, each with distinct tradeoffs.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "VEN-023",
+          "section": "04 · Buildings, shops and indoor spaces",
+          "title": "Community Greenhouse",
+          "status": "FUTURE",
+          "description": "Optional cooperative narrative project without real token payouts.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "TIME",
+      "title": "05 · Life, time, seasons, weather and routines",
+      "entries": [
+        {
+          "id": "TIME-001",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Time matters",
+          "status": "LOCKED",
+          "description": "Daily obligations, routines and changing locations should be meaningful—not merely a timer icon.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-002",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Four seasons",
+          "status": "DESIGN",
+          "description": "Spring, summer, autumn, winter with distinct color, environment, market stock and schedule patterns.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-003",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Short seasons",
+          "status": "DESIGN",
+          "description": "Candidate 10 game days per season during early testing; tunable for gameplay satisfaction.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-004",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Day progression",
+          "status": "DESIGN",
+          "description": "Approx. 12–18 minutes per game day unless the player sleeps or enters a controlled time skip.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-005",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Sleep to advance",
+          "status": "DESIGN",
+          "description": "Player enters bed and begins next morning; crop state, calendar, weather and NPC schedules update.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-006",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Morning ritual",
+          "status": "DESIGN",
+          "description": "Check calendar, weather, plants and supplies before choosing route.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-007",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Shop hours",
+          "status": "DESIGN",
+          "description": "Doors may be closed outside business hours; clock becomes meaningful.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-008",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "NPC commuting",
+          "status": "DESIGN",
+          "description": "Shopkeepers open/close, eat, visit market and return home; route schedules persist by day.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-009",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Weather state",
+          "status": "DESIGN",
+          "description": "Sun, cloud and rain; changes ambience, growth modifiers, water availability and schedule decisions.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-010",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Outdoor shelter",
+          "status": "DESIGN",
+          "description": "Open plots and greenhouses respond differently to rain, wind and winter.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-011",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Temperature abstraction",
+          "status": "DESIGN",
+          "description": "Simple season/environment suitability modifier, not a real-world cultivation instruction manual.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-012",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Player stamina",
+          "status": "DESIGN",
+          "description": "Watering, cleaning and chores consume a manageable resource, restored by sleep or simple meals.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-013",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Reputation passage",
+          "status": "DESIGN",
+          "description": "Residents remember years of events and completed chores.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-014",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Seasonal renovations",
+          "status": "DESIGN",
+          "description": "Storefronts, town banners, market stalls and props change incrementally.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-015",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Birthdays",
+          "status": "DESIGN",
+          "description": "NPC calendar birthdays provide small optional relationship moments.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-016",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Seasonal visitors",
+          "status": "DESIGN",
+          "description": "Traveling vendor or archivist arrives on certain weeks.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-017",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Calendar journal",
+          "status": "DESIGN",
+          "description": "Appointment, event, crop estimate and daily note page.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-018",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Rainy afternoon",
+          "status": "DESIGN",
+          "description": "Slower streets, cover sounds, conversations that vary with weather.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-019",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Generational epilogue",
+          "status": "FUTURE",
+          "description": "Long-running town changes could culminate in an epilogue rather than an infinite wealth grind.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TIME-020",
+          "section": "05 · Life, time, seasons, weather and routines",
+          "title": "Weather emergencies",
+          "status": "FUTURE",
+          "description": "Power outage or leaks as accessible fictional maintenance quests, with no unsafe real-world repair instructions.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "GROW",
+      "title": "06 · Virtual cultivation and genetics",
+      "entries": [
+        {
+          "id": "GROW-001",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Cannabis-inspired fiction",
+          "status": "LOCKED",
+          "description": "Virtual cannabis varieties form the main crop category and visual identity of the game.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-002",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Hands-on care loop",
+          "status": "LOCKED",
+          "description": "Approach actual 3D plot, ready tool, sow, water, inspect, wait, harvest and see consequences.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-003",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Soil preparation",
+          "status": "DESIGN",
+          "description": "One-button simplified plot clearing and preparation before sowing.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-004",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Seeds as inventory",
+          "status": "DESIGN",
+          "description": "Varieties with visual packet labels, prices, simple traits and quantities.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-005",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Planting interaction",
+          "status": "DESIGN",
+          "description": "Place seed physically into empty available plot, see new world-object state.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-006",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Moisture state",
+          "status": "DESIGN",
+          "description": "Abstract 0–100 condition affecting plant health and maturation; clear but not technical real-world guidance.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-007",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Watering can",
+          "status": "DESIGN",
+          "description": "Visibly animate water particles; can and plot state update, no duplicate rewards from repeated input.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-008",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Basic soil supplies",
+          "status": "DESIGN",
+          "description": "Consumable item associated with plot condition, accessible fictional simplification.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-009",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Plant health",
+          "status": "DESIGN",
+          "description": "Visual and journal feedback, can recover under normal player care.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-010",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Growth stages",
+          "status": "DESIGN",
+          "description": "Seed / sprout / vegetative / flowering / ripe / harvested, visually distinct.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-011",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Growth on sleep",
+          "status": "DESIGN",
+          "description": "Each day transition advances plant maturity, with season and variety affecting progress.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-012",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Quality grades",
+          "status": "DESIGN",
+          "description": "Game rating such as B, A and S for appearance/value; avoid copying another game's proprietary UI.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-013",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Yield stat",
+          "status": "DESIGN",
+          "description": "Each mature plant produces a quantity of virtual harvest units, influenced by care and variety.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-014",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Cure / pack phase",
+          "status": "DESIGN",
+          "description": "Simplified post-harvest timer or button station; game loop detail, not real-world procedural guidance.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-015",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Genetics notebook",
+          "status": "DESIGN",
+          "description": "Record discovered fictional traits and combinations.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-016",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Breeding lab",
+          "status": "DESIGN",
+          "description": "Unlockable system to combine fictional strain traits via abstracted research mini-game.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-017",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Variety resilience",
+          "status": "DESIGN",
+          "description": "Simple resistance to in-game stressful weather/poor care.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-018",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Variety rarity",
+          "status": "DESIGN",
+          "description": "Ordinary / unusual / rare / archival; scarcity earned by discovery, not financial speculation.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-019",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Starter variety",
+          "status": "DESIGN",
+          "description": "Sour Diesel appears in prior art concepts and can be an optional named starter strain; no trademark claims.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-020",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Blue Dream",
+          "status": "DESIGN",
+          "description": "Proposed familiar strain label from art; only use with careful naming and fictional rules.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-021",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "OG Kush",
+          "status": "DESIGN",
+          "description": "Optional recognizable strain name from concept board, not guaranteed content.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-022",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Girl Scout Cookies",
+          "status": "DESIGN",
+          "description": "Concept art variety name; use generic creative replacement if necessary for legal/trademark fit.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-023",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Gelato",
+          "status": "DESIGN",
+          "description": "Concept art variety name; not a published product or real genetics claim.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-024",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Runtz",
+          "status": "DESIGN",
+          "description": "Concept art variety name; not a published product or real genetics claim.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-025",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Purple Stardust",
+          "status": "DESIGN",
+          "description": "Original fantasy variety from promotional concept art; optional unlockable.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-026",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Bubbles Blueberry F4",
+          "status": "DESIGN",
+          "description": "Allusion to documented POTIFY seed inventory; proposed journal collectible, not necessarily actual game cultivation.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-027",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Strawberry Birthday Cake",
+          "status": "DESIGN",
+          "description": "Allusion to real POTIFY seed pack inventory; collectible label or lore prop candidate.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-028",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Heart Shaped Lunch Box",
+          "status": "DESIGN",
+          "description": "Unusual seed packet name tied to lore clue; proposed collector's item.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-029",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Brainstorm",
+          "status": "DESIGN",
+          "description": "Special collector seed packet and possible mushroom-related pun.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-030",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Golden Cipher",
+          "status": "DESIGN",
+          "description": "Seed collection codeword that can tie into mysterious Book II hints.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-031",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Royal Queen",
+          "status": "DESIGN",
+          "description": "Name seen in documented inventory; use only with permission/trademark review if appearing in finished game.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-032",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Bomb",
+          "status": "DESIGN",
+          "description": "Seed inventory callback; future naming/style approval needed.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-033",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Plant Doctor",
+          "status": "DESIGN",
+          "description": "In-game educational observation journal referencing POTIFY Plant Doctor as universe theme, not diagnosing live plants.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-034",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Pest and deficiency events",
+          "status": "DESIGN",
+          "description": "Simple game alerts, abstract symbolic conditions; avoid step-by-step real cannabis grow troubleshooting in public promo.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-035",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Composting",
+          "status": "DESIGN",
+          "description": "Converts in-world waste to fictional soil booster with time and opportunity cost.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-036",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Automatic irrigation",
+          "status": "DESIGN",
+          "description": "Larger property upgrade reduces repetitive watering but costs maintenance/energy.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-037",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Greenhouse lighting",
+          "status": "DESIGN",
+          "description": "Equipment upgrade gives game growth modifier with upkeep and reliability.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-038",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Harvest sorting",
+          "status": "DESIGN",
+          "description": "Player chooses to sell, store, gift to NPC in-fiction only or put aside for research.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-039",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Catalog entries",
+          "status": "DESIGN",
+          "description": "All discovered varieties gain original illustrated notebook pages.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-040",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Seasonal strain festivals",
+          "status": "FUTURE",
+          "description": "Compare fictional varieties by aesthetics, story and care rather than real plant potency.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "GROW-041",
+          "section": "06 · Virtual cultivation and genetics",
+          "title": "Cross-generational hybrids",
+          "status": "FUTURE",
+          "description": "Unlock later research chapters and library clues.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "ITEM",
+      "title": "07 · Tools, resources, furniture and collectibles",
+      "entries": [
+        {
+          "id": "ITEM-001",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Starter watering can",
+          "status": "DESIGN",
+          "description": "Basic low-capacity tool, manual refills.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-002",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Improved watering can",
+          "status": "DESIGN",
+          "description": "First upgrade reduces chore time and unlocks a larger watering area.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-003",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Soil spade",
+          "status": "DESIGN",
+          "description": "Basic plot-preparation prop, visible in use.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-004",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Pruning shears",
+          "status": "DESIGN",
+          "description": "Animation/maintenance tool without teaching real-world grow steps.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-005",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Compost bin",
+          "status": "DESIGN",
+          "description": "Object placed by plot, passively converts fictional yard material into abstract resource.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-006",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Water tank",
+          "status": "DESIGN",
+          "description": "World object powering refill point; upgrade affects convenience.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-007",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Irrigation kit",
+          "status": "DESIGN",
+          "description": "Unlockable automated watering for a small subset of plots.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-008",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Fans",
+          "status": "DESIGN",
+          "description": "Indoor equipment with simple energy and condition modifiers.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-009",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Grow lights",
+          "status": "DESIGN",
+          "description": "Indoor equipment consuming simSOL energy/upkeep.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-010",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Simple environmental monitor",
+          "status": "DESIGN",
+          "description": "Game-only status readout for greenhouse conditions.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-011",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Workbench",
+          "status": "DESIGN",
+          "description": "Repairs, makes fictional household items and maintains tools.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-012",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Seed tray",
+          "status": "DESIGN",
+          "description": "Plant inventory organization display and visual upgrade.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-013",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Harvest crate",
+          "status": "DESIGN",
+          "description": "Carry and store current harvest as inventory units.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-014",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Storage jars",
+          "status": "DESIGN",
+          "description": "Fictional curing/packaging item and collectible shelf aesthetic.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-015",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Delivery cart",
+          "status": "DESIGN",
+          "description": "Improves throughput to market without driving real-world cannabis deliveries.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-016",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Wallpaper and flooring",
+          "status": "DESIGN",
+          "description": "House customization through earned in-game currency.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-017",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Household furniture",
+          "status": "DESIGN",
+          "description": "Bed, shelf, table, rug, tea set, desk, photo frame, planters, record player.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-018",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Seasonal clothing",
+          "status": "DESIGN",
+          "description": "Plain work clothes, jackets, raincoat and warm gear; customization over costumes.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-019",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Tool durability",
+          "status": "DESIGN",
+          "description": "Optional gentle upkeep cost, not a punishing survival mechanic.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-020",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Pressed leaf bookmark",
+          "status": "DESIGN",
+          "description": "Narrative cosmetic reward from Chronicle exploration.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-021",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Record collection",
+          "status": "DESIGN",
+          "description": "A few original POTIFY tracks/story audio found in venues and shops.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-022",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "City postcards",
+          "status": "DESIGN",
+          "description": "Small collectibles rewarding travel and remembering town changes.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-023",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Bulletin stamps",
+          "status": "DESIGN",
+          "description": "Cosmetic stamps for journal chapters and optional discoveries.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-024",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Decorative greenhouse",
+          "status": "FUTURE",
+          "description": "High-tier customize glass/woodwork, but keep silhouette believable.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ITEM-025",
+          "section": "07 · Tools, resources, furniture and collectibles",
+          "title": "Trophy display",
+          "status": "FUTURE",
+          "description": "Shelf for seasonal achievements and story trinkets.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "ECON",
+      "title": "08 · Fictional economy and business progression",
+      "entries": [
+        {
+          "id": "ECON-001",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Two-level naming",
+          "status": "LOCKED",
+          "description": "Real Solana $POTIFY exists outside game; fictional harvest quantity is NOT an actual fungible token or claim on real cannabis.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-002",
+          "section": "08 · Fictional economy and business progression",
+          "title": "simSOL",
+          "status": "LOCKED",
+          "description": "In-game simulated, nontransferable monetary balance, visually distinct from actual SOL and clearly labeled virtual.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-003",
+          "section": "08 · Fictional economy and business progression",
+          "title": "In-game harvest units",
+          "status": "LOCKED",
+          "description": "Harvest output is numerically tracked as virtual POTIFY-themed inventory units; cannot be redeemed for real tokens or products.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-004",
+          "section": "08 · Fictional economy and business progression",
+          "title": "No real money checkout",
+          "status": "LOCKED",
+          "description": "Shops and markets exchange only fictional resources for simSOL; no direct real cannabis transaction or actual token transfer.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-005",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Starter balance",
+          "status": "DESIGN",
+          "description": "Initial candidate balance 120 simSOL, subject to tuning and testing.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-006",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Starter capacity",
+          "status": "DESIGN",
+          "description": "Four plots, upgradeable to six/eight and larger facilities.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-007",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Seed entry cost",
+          "status": "DESIGN",
+          "description": "Candidate 15 simSOL per seed packet, tune against pacing.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-008",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Input cost",
+          "status": "DESIGN",
+          "description": "Candidate 4 simSOL per grow slot/cycle in basic soil inputs.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-009",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Baseline yield",
+          "status": "DESIGN",
+          "description": "Candidate 4 virtual harvest units per plant at baseline grade.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-010",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Base sell price",
+          "status": "DESIGN",
+          "description": "Candidate 8 simSOL per harvest unit, with supply/demand and grade modifiers.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-011",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Four-plot baseline",
+          "status": "DESIGN",
+          "description": "Candidate 4 × (4 × 8 − 15 − 4) = 52 simSOL net for a complete 4-plot cycle.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-012",
+          "section": "08 · Fictional economy and business progression",
+          "title": "First upgrade price",
+          "status": "DESIGN",
+          "description": "Candidate 180–200 simSOL for a useful watering/plot improvement; rebalance after playtests.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-013",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Quality modifiers",
+          "status": "DESIGN",
+          "description": "Candidate B 1.00×, A 1.25×, S 1.50× base sale price.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-014",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Shop opening hours",
+          "status": "DESIGN",
+          "description": "Buyer closes and opens; player needs to plan sales or store product.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-015",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Market fluctuation",
+          "status": "DESIGN",
+          "description": "Mild day-to-day price range, clearly simulated and not tied to real crypto charts.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-016",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Shopkeeper relationship",
+          "status": "DESIGN",
+          "description": "Trust unlocks discounts or more variety, not guaranteed financial return.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-017",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Property upgrades",
+          "status": "DESIGN",
+          "description": "Rooftop plot → modest greenhouse → warehouse → several city properties.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-018",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Operating costs",
+          "status": "DESIGN",
+          "description": "Light/energy/repairs and care costs prevent idle exploitation, but no hard soft locks.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-019",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Inventory/storage",
+          "status": "DESIGN",
+          "description": "Unsold goods, supplies, and seed packets persist after sleep and reload.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-020",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Research funding",
+          "status": "DESIGN",
+          "description": "Spend simSOL to unlock fictional hybrids and in-world lab access.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-021",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Optional contract board",
+          "status": "DESIGN",
+          "description": "Predictable fictional wholesale orders with capped quantity/reward.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-022",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Cosmetics sink",
+          "status": "DESIGN",
+          "description": "Furniture and city decoration as optional spending destinations.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-023",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Event entry costs",
+          "status": "DESIGN",
+          "description": "Any contest must use virtual-only currency and avoid chance-based financial prizes.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-024",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Shop ownership",
+          "status": "FUTURE",
+          "description": "Gameplay fantasy of upgrading or operating a fictional retail location with extra chores and staff schedules.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-025",
+          "section": "08 · Fictional economy and business progression",
+          "title": "City reputation",
+          "status": "FUTURE",
+          "description": "Town-level metric for helpful participation and story progression, separate from virtual finances.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-026",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Optional token/profile display",
+          "status": "FUTURE",
+          "description": "Read-only Solana wallet display after security and legal review; no wallet connection needed to play.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ECON-027",
+          "section": "08 · Fictional economy and business progression",
+          "title": "Live crypto integration",
+          "status": "OPEN",
+          "description": "Not a committed feature or reward program; wallet transaction signing, convertibility and any reward economics are not approved.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "NPC",
+      "title": "09 · Characters and relationships",
+      "entries": [
+        {
+          "id": "NPC-001",
+          "section": "09 · Characters and relationships",
+          "title": "Shylo",
+          "status": "LOCKED",
+          "description": "Norwegian Elkhound, gray and cream double coat, pointed ears, curled tail; low-key ambient companion with occasional interaction, not mascot.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-002",
+          "section": "09 · Characters and relationships",
+          "title": "The Player",
+          "status": "DESIGN",
+          "description": "Customizable adult resident, new caretaker of small growing property, not automatically the real project founder.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-003",
+          "section": "09 · Characters and relationships",
+          "title": "Bram Reed / soil mentor",
+          "status": "DESIGN",
+          "description": "Proposed older soil-and-supplies owner; taciturn, observant, thinks patience is a job skill. Name requires creative approval.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-004",
+          "section": "09 · Characters and relationships",
+          "title": "Mira Vale / market buyer",
+          "status": "DESIGN",
+          "description": "Proposed practical, no-nonsense buyer who assesses grade fairly and notices patterns; name requires approval.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-005",
+          "section": "09 · Characters and relationships",
+          "title": "DJ Myco / musician",
+          "status": "DESIGN",
+          "description": "Proposed night venue musician, keeps a strangely annotated setlist and scattered Chronicle hints; name from previously suggested clue.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-006",
+          "section": "09 · Characters and relationships",
+          "title": "Elin Moss / archivist",
+          "status": "DESIGN",
+          "description": "Proposed town librarian tracking old greenhouse records and city construction ledgers.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-007",
+          "section": "09 · Characters and relationships",
+          "title": "Dr. Ada Linden / lab researcher",
+          "status": "DESIGN",
+          "description": "Proposed friendly but exacting fictional geneticist interested in why certain heirlooms disappear from records.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-008",
+          "section": "09 · Characters and relationships",
+          "title": "Jax Quarry / mechanic",
+          "status": "DESIGN",
+          "description": "Proposed repair-shop worker, solves leaks and wind damage, sometimes tells jokes too late.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-009",
+          "section": "09 · Characters and relationships",
+          "title": "Rowan Pike / rival grower",
+          "status": "DESIGN",
+          "description": "Proposed rival who begins competitive and gradually respects careful work.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-010",
+          "section": "09 · Characters and relationships",
+          "title": "Tessa Bloom / inn owner",
+          "status": "DESIGN",
+          "description": "Proposed owner of local rooms and seasonal guestbook.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-011",
+          "section": "09 · Characters and relationships",
+          "title": "The visiting vendor",
+          "status": "DESIGN",
+          "description": "Rotating masked or unnamed supplier who sometimes has an unusual packet.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-012",
+          "section": "09 · Characters and relationships",
+          "title": "The Old Grower",
+          "status": "DESIGN",
+          "description": "Archetype from concept art; mentor role should be consolidated with Bram unless designer approves a separate NPC.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-013",
+          "section": "09 · Characters and relationships",
+          "title": "The Chemist",
+          "status": "DESIGN",
+          "description": "Concept-art archetype; combine with Dr. Ada unless needed as separate character.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-014",
+          "section": "09 · Characters and relationships",
+          "title": "The Dispensary Owner",
+          "status": "DESIGN",
+          "description": "Concept-art archetype; combine with Mira unless a second buyer is needed.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-015",
+          "section": "09 · Characters and relationships",
+          "title": "The DJ",
+          "status": "DESIGN",
+          "description": "Concept-art archetype; use DJ Myco as strong working candidate.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-016",
+          "section": "09 · Characters and relationships",
+          "title": "The Investor",
+          "status": "DESIGN",
+          "description": "Concept-art archetype: a socially awkward crypto enthusiast; optional comic NPC, NOT a hype/financial-promises spokesperson.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-017",
+          "section": "09 · Characters and relationships",
+          "title": "The Rival",
+          "status": "DESIGN",
+          "description": "Concept-art archetype: Rowan Pike, competitive but human, with a personal reason for obsessing over grades.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-018",
+          "section": "09 · Characters and relationships",
+          "title": "The Love Interest",
+          "status": "DESIGN",
+          "description": "Possible player-chosen relationship path, not a single canon love character.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-019",
+          "section": "09 · Characters and relationships",
+          "title": "Town kid",
+          "status": "DESIGN",
+          "description": "Non-combat town resident with age-appropriate conversations, not involved in cannabis purchases.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-020",
+          "section": "09 · Characters and relationships",
+          "title": "Retired courier",
+          "status": "DESIGN",
+          "description": "Knows service alleys, delivers generic packages and remembers vanished businesses.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-021",
+          "section": "09 · Characters and relationships",
+          "title": "Bus driver",
+          "status": "DESIGN",
+          "description": "Makes the city's hours visible and comments on weather.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-022",
+          "section": "09 · Characters and relationships",
+          "title": "Festival organizer",
+          "status": "DESIGN",
+          "description": "Schedules markets and small community events.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-023",
+          "section": "09 · Characters and relationships",
+          "title": "Book collector",
+          "status": "DESIGN",
+          "description": "Exchanges ordinary in-game collectibles for lore and decor.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-024",
+          "section": "09 · Characters and relationships",
+          "title": "Neighborhood groundskeeper",
+          "status": "DESIGN",
+          "description": "Hears every rumor, tells most of them wrong, and knows the park's real maintenance history.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-025",
+          "section": "09 · Characters and relationships",
+          "title": "The unknown grower",
+          "status": "DESIGN",
+          "description": "Chronicle-linked silhouette seen in old photos; identity intentionally unresolved.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-026",
+          "section": "09 · Characters and relationships",
+          "title": "Friendship levels",
+          "status": "DESIGN",
+          "description": "Greetings → acquaintances → trusted friends → personal quest, paced over in-game weeks.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-027",
+          "section": "09 · Characters and relationships",
+          "title": "NPC schedules",
+          "status": "DESIGN",
+          "description": "Work, home, weather, festival and visit locations with recurring behavior.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-028",
+          "section": "09 · Characters and relationships",
+          "title": "Dialogue bank",
+          "status": "DESIGN",
+          "description": "Personality-specific short lines; no generic lore dump or incessant POTIFY slogan.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-029",
+          "section": "09 · Characters and relationships",
+          "title": "Romantic relationships",
+          "status": "FUTURE",
+          "description": "Slow, optional adult romance and domestic progression, no obligatory marriage.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-030",
+          "section": "09 · Characters and relationships",
+          "title": "Family arc",
+          "status": "FUTURE",
+          "description": "Possible later chapter feature, not represented as already playable.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-031",
+          "section": "09 · Characters and relationships",
+          "title": "Generational townsfolk",
+          "status": "FUTURE",
+          "description": "Long-term changing ages and responsibilities in an epilogue chapter.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "NPC-032",
+          "section": "09 · Characters and relationships",
+          "title": "Canon NPC proper names",
+          "status": "OPEN",
+          "description": "Only Shylo is explicitly user-confirmed in this chat; other proposed first/last names await approval.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "LORE",
+      "title": "10 · Main story, Chronicles connections and future chapters",
+      "entries": [
+        {
+          "id": "LORE-001",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "The POTIFY Chronicles",
+          "status": "LOCKED",
+          "description": "Separate fictional narrative that informs game atmosphere, books, clues, and long-term reconstruction theme.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-002",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Book I title",
+          "status": "LOCKED",
+          "description": "The First Cycle.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-003",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Book II title",
+          "status": "LOCKED",
+          "description": "The Soil Remembers.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-004",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "First-cycle narrative pillars",
+          "status": "LOCKED",
+          "description": "First seed, roots, canopy, flip, stretch, imbalance, rot, loss and reconstruction.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-005",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Fiction boundary",
+          "status": "LOCKED",
+          "description": "No Chronicle clue can be treated as a real market signal, token buy instruction or promised launch.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-006",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Chapter IX ending",
+          "status": "OPEN",
+          "description": "Unresolved older Chronicle fact; no answer has been established.",
+          "visibility": "REDACTED_OPEN"
+        },
+        {
+          "id": "LORE-007",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "The notebook owner",
+          "status": "OPEN",
+          "description": "Unresolved older Chronicle fact; no answer has been established.",
+          "visibility": "REDACTED_OPEN"
+        },
+        {
+          "id": "LORE-008",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Chance's Chronicle role",
+          "status": "OPEN",
+          "description": "Unresolved older Chronicle fact; no answer has been established.",
+          "visibility": "REDACTED_OPEN"
+        },
+        {
+          "id": "LORE-009",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Older man's identity",
+          "status": "OPEN",
+          "description": "Unresolved older Chronicle fact; no answer has been established.",
+          "visibility": "REDACTED_OPEN"
+        },
+        {
+          "id": "LORE-010",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Original seed provenance",
+          "status": "OPEN",
+          "description": "Unresolved older Chronicle fact; no answer has been established.",
+          "visibility": "REDACTED_OPEN"
+        },
+        {
+          "id": "LORE-011",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Prologue: The Lease",
+          "status": "DESIGN",
+          "description": "Player receives access to modest grow space and a handwritten instruction to 'start where they stopped.'",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-012",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Act I: The First Day",
+          "status": "DESIGN",
+          "description": "Small chores and first NPC introductions; no grand revelations or immediate wealth.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-013",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Act II: The First Cycle",
+          "status": "DESIGN",
+          "description": "Successful first harvest contrasts with archivist's ambiguous photo of an older greenhouse.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-014",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Act III: A Missing Season",
+          "status": "DESIGN",
+          "description": "Local records and personal stories hint at a lost grow cycle; gradual mystery.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-015",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Act IV: The Soil Remembers",
+          "status": "DESIGN",
+          "description": "Town rebuilds former property and reconstructs what the first loss did to the people, not just plants.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-016",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Act V: A City Worth Keeping",
+          "status": "DESIGN",
+          "description": "Player's choices reveal what makes the city resilient; neighborhood and relationship outcomes matter.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-017",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Storytime pacing",
+          "status": "DESIGN",
+          "description": "Uncover small mystery scraps during ordinary chores, never force hours of cutscenes to understand basic mechanics.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-018",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "The First Cycle paperback",
+          "status": "DESIGN",
+          "description": "Readable in-world book prop with excerpt; only publish approved fiction and avoid copying old text verbatim without source check.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-019",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "The Soil Remembers hardcover",
+          "status": "DESIGN",
+          "description": "Worn book with pressed-leaf bookmark and a recurring page reference; copies appear in several places for story reasons.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-020",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Reconstruction",
+          "status": "DESIGN",
+          "description": "Thematically central: repair what failed, acknowledge loss, learn, change behavior.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-021",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "The Canopy",
+          "status": "DESIGN",
+          "description": "Recurring poetic image: what is visible above ground may hide problems below.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-022",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Hidden records",
+          "status": "DESIGN",
+          "description": "Property ledgers, old labels, annotated photos and wrong addresses build the town history.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-023",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Parallel timelines",
+          "status": "DESIGN",
+          "description": "Story can show an old era of city cultivation through found media, not direct plot exposition.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-024",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Three-generation theme",
+          "status": "DESIGN",
+          "description": "Later story might explore who planted, who maintained, who inherits; not explicit human biological generations.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-025",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Community chronicle",
+          "status": "DESIGN",
+          "description": "Approved submissions might become town message-board jokes, never unvetted real people or a trading endorsement.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-026",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Multiple epilogues",
+          "status": "DESIGN",
+          "description": "End states determined by care, friendship and town restorations rather than accumulated token balances.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "LORE-027",
+          "section": "10 · Main story, Chronicles connections and future chapters",
+          "title": "Book-to-game chapter branching",
+          "status": "FUTURE",
+          "description": "Future Chronicles installments can connect via optional story missions and artifact descriptions without retconning unresolved original chapters.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "QUEST",
+      "title": "11 · Tutorials, errands, friendships and quest arcs",
+      "entries": [
+        {
+          "id": "QUEST-001",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "The Keys and the Kettle",
+          "status": "DESIGN",
+          "description": "First morning: walk home, read calendar, inspect roof, meet mentor.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-002",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "Just Four Pots",
+          "status": "DESIGN",
+          "description": "Clear four starter plots and make them usable.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-003",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "The First Packet",
+          "status": "DESIGN",
+          "description": "Visit Seed Bank, choose affordable virtual starter genetics and return home.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-004",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "Soil on Your Boots",
+          "status": "DESIGN",
+          "description": "Prepare, sow and water first plot in actual third-person world.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-005",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "Nobody Opens at Midnight",
+          "status": "DESIGN",
+          "description": "Discover shop hours and use calendar to plan a trip.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-006",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "The First Night",
+          "status": "DESIGN",
+          "description": "Return home and sleep, advance crops by one day.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-007",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "The Waiting Game",
+          "status": "DESIGN",
+          "description": "Realize plant progress requires multiple game days and good care, not instant button mashing.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-008",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "A Fair Price",
+          "status": "DESIGN",
+          "description": "First harvest, store, visit buyer, complete virtual sale and record result.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-009",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "Better Than Yesterday",
+          "status": "DESIGN",
+          "description": "Purchase a first practical watering/plot upgrade using earned simSOL.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-010",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "Under the Sink",
+          "status": "DESIGN",
+          "description": "Help mechanic fix a fictional leaky line; unlock water tank perk.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-011",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "Soil Knows",
+          "status": "DESIGN",
+          "description": "Recover a missing delivery for mentor; unlock a quiet journal anecdote.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-012",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "The Lab's Ledger",
+          "status": "DESIGN",
+          "description": "Find an old seed label for researcher; unlock fictional trait comparison.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-013",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "A Stranger's Setlist",
+          "status": "DESIGN",
+          "description": "DJ asks for a record; find a track hidden in a normal public shop.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-014",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "The Rain Check",
+          "status": "DESIGN",
+          "description": "Reschedule a town meeting after rain; teaches NPC schedule changes.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-015",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "Do Not Touch the Clock",
+          "status": "DESIGN",
+          "description": "A local jokes about a clock that never quite reaches the next minute.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-016",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "Housewarming",
+          "status": "DESIGN",
+          "description": "Place one decorative item and invite a friendly resident.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-017",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "Lost Courier Parcel",
+          "status": "DESIGN",
+          "description": "Solve confusing but harmless town addresses; reveal a service route.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-018",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "The Market Morning",
+          "status": "DESIGN",
+          "description": "Seasonal small-town festival with a tiny non-cash cosmetic award.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-019",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "Old Foundation",
+          "status": "DESIGN",
+          "description": "Inspect fenced damaged greenhouse and learn someone used to work there.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-020",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "The First Page",
+          "status": "DESIGN",
+          "description": "Find a Chronicle excerpt through routine work; add journal bookmark.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-021",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "Labeled Seven Ways",
+          "status": "DESIGN",
+          "description": "Gather collectible packet labels over different town days.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-022",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "Mutual Respect",
+          "status": "DESIGN",
+          "description": "Rival judges completed work, then asks for help during weather event.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-023",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "Rooftop Permit",
+          "status": "DESIGN",
+          "description": "Fictional civic quest to expand grow building using simSOL and neighbor approval.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-024",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "The Night Walk",
+          "status": "DESIGN",
+          "description": "Archivist leaves a daytime hint to return near plaza after dark.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-025",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "The Roof Repairs",
+          "status": "DESIGN",
+          "description": "Gather standard fictional materials to repair a greenhouse before next season.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-026",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "The Festival Board",
+          "status": "DESIGN",
+          "description": "Choose between three small community preparation tasks; no real rewards.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-027",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "A Different Harvest",
+          "status": "DESIGN",
+          "description": "Optional non-financial quest about collecting memories and oral histories.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-028",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "The Disappearing Address",
+          "status": "DESIGN",
+          "description": "A torn map label points to an old facility that no one remembers in the same way.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-029",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "Rebuild, Don't Replace",
+          "status": "DESIGN",
+          "description": "Late-game town project has choices based on relationships and upkeep.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "QUEST-030",
+          "section": "11 · Tutorials, errands, friendships and quest arcs",
+          "title": "Town legacy chapter",
+          "status": "FUTURE",
+          "description": "Wider ending chain with district progress, restored areas and personal epilogue scenes.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "EGG",
+      "title": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+      "entries": [
+        {
+          "id": "EGG-001",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "4:19 shop clock",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-002",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "4:20 fountain moment",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-003",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Soil Remembers book",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-004",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Pressed leaf bookmark",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-005",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Seven seed-packet labels",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-006",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Seed / Soil / Solana glyphs",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-007",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Forgotten rooftop observatory",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-008",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The old greenhouse",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-009",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The VHS room",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-010",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The 17M crate",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-011",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Brainstorm Patch",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-012",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Vape God Arcade",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-013",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Lost Strain",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-014",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Broadcast",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-015",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Distant forest silhouette",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-016",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Grateful Grower",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-017",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Mysterious Van",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-018",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Nighttime conspiracy radio",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-019",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Underground greenhouse",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-020",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The 420 NPC",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-021",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Reclaim terminal",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-022",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Alien seed rumor",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-023",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Full-moon door",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-024",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "2-of-3 toolbox latch",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-025",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Low Light, Water Moving",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-026",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The First Cycle spine",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-027",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Noon on Tuesday",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-028",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Noticeboard typo",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-029",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Empty Pot Trophy",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-030",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Patient Neighbor",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-031",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Greenhouse 0",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-032",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The River's Reflection",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-033",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Wrong Street Name",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-034",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Lost Label",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-035",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Silent Record",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-036",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Clockmaker's Receipt",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-037",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Kettle Whistle",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-038",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Rainwater Note",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-039",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Secret Bench Conversation",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-040",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Janitor's Key",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-041",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Slowest NPC",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-042",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Unread Invoice",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-043",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Greenhouse Window",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-044",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Special License Plate",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-045",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Fourth Mug",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-046",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "24/7 Broadcast Joke",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-047",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "The Fourth Wall Tool",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-048",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Fake Sponsor Catalogue",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-049",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Shylo's Quiet Spot",
+          "status": "DESIGN",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-050",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Holiday seed note",
+          "status": "FUTURE",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        },
+        {
+          "id": "EGG-051",
+          "section": "12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",
+          "title": "Secret festival finale",
+          "status": "FUTURE",
+          "description": "A subtle discoverable mystery. The solution is intentionally not published.",
+          "visibility": "PUBLIC_HINT_ONLY"
+        }
+      ]
+    },
+    {
+      "code": "SYS",
+      "title": "13 · Mechanics, controls and quality of life",
+      "entries": [
+        {
+          "id": "SYS-001",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Third-person movement",
+          "status": "DESIGN",
+          "description": "WASD on desktop and virtual joystick on phones, smooth collision-based movement.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-002",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Camera turn",
+          "status": "DESIGN",
+          "description": "Mouse/right stick/touch camera movement and collision-safe follow.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-003",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Context action",
+          "status": "DESIGN",
+          "description": "Clear tap/interact button near doors, plots, shopkeepers and collectibles.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-004",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Running",
+          "status": "DESIGN",
+          "description": "Optional short sprint without turning the game into a speedrun.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-005",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Interactable doors",
+          "status": "DESIGN",
+          "description": "Walk physically into home, shop, greenhouse and small interior.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-006",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Tool wheel",
+          "status": "DESIGN",
+          "description": "Small accessible selector for watering can, spade and inventory use.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-007",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Inventory tabs",
+          "status": "DESIGN",
+          "description": "Seeds, tools, virtual harvested inventory, furniture and collectibles.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-008",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Quick status",
+          "status": "DESIGN",
+          "description": "Time, season, weather, stamina and currently selected tool.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-009",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Grow plot tooltip",
+          "status": "DESIGN",
+          "description": "Plant variety, current stage, broad condition, anticipated readiness without overspecifying real horticulture.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-010",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Shop interface",
+          "status": "DESIGN",
+          "description": "Present item price and player simSOL, confirm changes before virtual purchase.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-011",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Save/load",
+          "status": "DESIGN",
+          "description": "Persist player position, NPC affinity, crop state, in-game simSOL, upgrades, time, secrets and journal.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-012",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Autosave",
+          "status": "DESIGN",
+          "description": "Save on sleep, important transactions and route changes, plus manual option.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-013",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Versioned saves",
+          "status": "DESIGN",
+          "description": "Migration and validation to avoid old save corruptions after updates.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-014",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Mobile safe area",
+          "status": "DESIGN",
+          "description": "Support iPhone browser safe-area margins, scalable touch targets and landscape viewing.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-015",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Performance budget",
+          "status": "DESIGN",
+          "description": "Small original world cells, simple GPU-friendly 3D assets, culling and restrained lighting.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-016",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Map marker categories",
+          "status": "DESIGN",
+          "description": "Known open shop, unvisited site, home, task, event; no complete secret routes.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-017",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Quest journal",
+          "status": "DESIGN",
+          "description": "In-world descriptions, next useful hint, optional spoiler controls.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-018",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Discovery journal",
+          "status": "DESIGN",
+          "description": "Found count and individual discovered entries; unknown secrets remain hidden.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-019",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Settings",
+          "status": "DESIGN",
+          "description": "Sound, contrast/readability, controls, save/reset with clear consequences.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-020",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Pause flow",
+          "status": "DESIGN",
+          "description": "Consistent pausing of game clock, NPC motion and timer.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-021",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Accessibility",
+          "status": "DESIGN",
+          "description": "Adjustable dialogue speed, subtitles, color-coded plus textual quality indicators.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-022",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "User consent",
+          "status": "DESIGN",
+          "description": "Adult-content acknowledgement and virtual-economy disclosure on start without excessive friction.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-023",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Deterministic demo testing",
+          "status": "DESIGN",
+          "description": "Fixed day and seed schedule for QA tests, not player-facing exploit.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-024",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Progress gate",
+          "status": "DESIGN",
+          "description": "Tutorial objective cannot be completed by changing a menu field only; must perform real action.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-025",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Rare-secret integrity",
+          "status": "DESIGN",
+          "description": "Finding an item updates persistent discovery state exactly once.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-026",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Gamepad support",
+          "status": "FUTURE",
+          "description": "Native controller mapping after keyboard/touch parity is tested.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-027",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Cloud player accounts",
+          "status": "FUTURE",
+          "description": "Optional account profiles and account-linked server persistence after privacy/security review.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SYS-028",
+          "section": "13 · Mechanics, controls and quality of life",
+          "title": "Multiple saved residents",
+          "status": "FUTURE",
+          "description": "Separate profiles and settings for family shared devices.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "SOC",
+      "title": "14 · Festivals, social life, customization and modes",
+      "entries": [
+        {
+          "id": "SOC-001",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Community market day",
+          "status": "DESIGN",
+          "description": "Weekly or seasonal NPC market, rotating displays and visitors.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-002",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Spring Bloom Fest",
+          "status": "DESIGN",
+          "description": "Community planting decorations and friendship quests; toned down pink visuals.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-003",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Summer Sunrise Jam",
+          "status": "DESIGN",
+          "description": "Morning music gathering around town stage; original song catalogue.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-004",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Autumn Harvest Fest",
+          "status": "DESIGN",
+          "description": "Fictional quality showcase and town pride, not wager-based competition.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-005",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Winter Repair Fair",
+          "status": "DESIGN",
+          "description": "Maintenance, old photographs and help-neighbor quests during low growth season.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-006",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Rooftop Cup",
+          "status": "DESIGN",
+          "description": "Fictional non-wagered cultivation show with cosmetic trophy and story reactions.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-007",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Street musician set",
+          "status": "DESIGN",
+          "description": "DJ Myco plays occasional short in-game performances and collectible records.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-008",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Town noticeboard",
+          "status": "DESIGN",
+          "description": "Events, errands, community ideas and funny hand-written changes.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-009",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "NPC friend milestones",
+          "status": "DESIGN",
+          "description": "Gifts of in-game cosmetics, home visits, unlocked dialogue and deeper personal arcs.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-010",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "House decoration",
+          "status": "DESIGN",
+          "description": "Floors, plants, shelves, posters and furniture earned via simSOL.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-011",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Wardrobe",
+          "status": "DESIGN",
+          "description": "Plain workwear, rain gear, jackets, light seasonal outfits.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-012",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Fishing-style downtime",
+          "status": "DESIGN",
+          "description": "Non-cannabis side activity such as creek photography and lost-item finding; avoid a direct Harvest Moon clone.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-013",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Cafe social hub",
+          "status": "DESIGN",
+          "description": "Chats and changing schedules with a few funny menu entries.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-014",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Dog interactions",
+          "status": "DESIGN",
+          "description": "Optional brief play/pet Shylo scenes, integrated rarely.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-015",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Player-run town project",
+          "status": "FUTURE",
+          "description": "Community-approved shared fictional upgrade that doesn't entail real token rewards.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-016",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Online co-op",
+          "status": "FUTURE",
+          "description": "Optional peaceful collaborative town life; not a first vertical-slice feature.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-017",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Sandbox Mode",
+          "status": "FUTURE",
+          "description": "Relaxed building/cultivation mode after story loop is stable.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-018",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Story Mode",
+          "status": "FUTURE",
+          "description": "Chronicles-inspired main arc with progression checkpoints.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-019",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Seasonal screenshot contest",
+          "status": "FUTURE",
+          "description": "Community creative events, separate from blockchain trading and with clear entry rules.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "SOC-020",
+          "section": "14 · Festivals, social life, customization and modes",
+          "title": "Public lore voting",
+          "status": "FUTURE",
+          "description": "Narrow, feasible choices like shop signage or NPC pet name; not token governance or IP transfer.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "AUDIO",
+      "title": "15 · Sound, score, trailer and marketing",
+      "entries": [
+        {
+          "id": "AUDIO-001",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Calm promotional tone",
+          "status": "LOCKED",
+          "description": "No exaggerated wealth or investment claims, no cringe 'next big chain' promises.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-002",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Honest development label",
+          "status": "LOCKED",
+          "description": "'In development / concept art' for visuals not captured from an implemented game.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-003",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Warm folk soundtrack",
+          "status": "DESIGN",
+          "description": "Gentle acoustic guitar, subtle synth pads, soft keys, warm town ambience rather than club music.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-004",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Seasonal acoustic themes",
+          "status": "DESIGN",
+          "description": "Distinct versions of calm motifs across four seasons.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-005",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Morning soundscape",
+          "status": "DESIGN",
+          "description": "Birds, feet on wood, breeze, bucket sounds, soft market distant chatter.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-006",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Rain",
+          "status": "DESIGN",
+          "description": "Roof patter, water flowing, indoor muffling and creaky drainage.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-007",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Evening scene",
+          "status": "DESIGN",
+          "description": "Cicadas, footsteps, distant cars, soft porch music and subtle electric hum.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-008",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Tool foley",
+          "status": "DESIGN",
+          "description": "Watering, footsteps, putting away supplies and shop till.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-009",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Ambient dog sounds",
+          "status": "DESIGN",
+          "description": "Occasional Shylo pant, paw scuff or quiet bark, not a recurring audio gimmick.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-010",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Chronicle audio fragments",
+          "status": "DESIGN",
+          "description": "Small original recordings unlocked through discovery, not real unreleased copyrighted music.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-011",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "The Soil Remembers motif",
+          "status": "DESIGN",
+          "description": "Minor-key progression appears rarely as narrative clue.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-012",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Teaser narrative",
+          "status": "DESIGN",
+          "description": "One rooftop → first chores → first harvest → town interaction → lingering mystery → short title reveal.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-013",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "No poster slideshow substitute",
+          "status": "LOCKED",
+          "description": "Promotional motion should be meaningful moving 3D/cinematic scenes; if using animated stills disclose that format.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-014",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Press kit",
+          "status": "DESIGN",
+          "description": "Game description, screenshots separated by 'concept' versus 'gameplay', logo, story summary, feature status, contact path.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-015",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Art board restraint",
+          "status": "DESIGN",
+          "description": "User preferred less crowded early poster with left hero character, large title, limited game panels and readable economy/market loop.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-016",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Fictional sponsor gag",
+          "status": "DESIGN",
+          "description": "Decorative fake sponsor logos can exist as lore only and must be labeled fictional; do not imply real platform partnerships.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-017",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Development updates",
+          "status": "DESIGN",
+          "description": "Publish one concrete completed feature, one current issue, one next milestone; avoid vaporware announcements.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-018",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Reddit build log",
+          "status": "DESIGN",
+          "description": "Ask for feedback on town atmosphere, controls, farm pacing; follow subreddit promotion rules.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "AUDIO-019",
+          "section": "15 · Sound, score, trailer and marketing",
+          "title": "Real gameplay trailer",
+          "status": "FUTURE",
+          "description": "Only after verified walk–plant–water–sleep–harvest–sell–upgrade cycle and recorded footage.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "TECH",
+      "title": "16 · Architecture, save safety, QA and development tooling",
+      "entries": [
+        {
+          "id": "TECH-001",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Existing Replit game project",
+          "status": "LOCKED",
+          "description": "Continue the game in the existing separate Replit app CompetentEminentAlgorithms; don't overwrite POTIFY Website or Vape God.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-002",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "3D stays 3D",
+          "status": "LOCKED",
+          "description": "Phaser, Kaboom.js and Pygame are 2D prototype options, not appropriate for replacing the requested 3D GameCube-style experience.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-003",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Browser-first renderer",
+          "status": "DESIGN",
+          "description": "Preserve existing React/Three.js/React Three Fiber stack if present; verify source before replacing packages.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-004",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Managed database",
+          "status": "DESIGN",
+          "description": "Consider Replit managed SQL/Postgres for account saves; begin with versioned reliable local save for anonymous vertical slice.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-005",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Feature flags",
+          "status": "DESIGN",
+          "description": "Keep experimental chemistry, rare Easter eggs and wallet-related functionality off until ready.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-006",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Shared data schema",
+          "status": "DESIGN",
+          "description": "Stable IDs for NPCs, districts, varieties, quests, items, discoveries, buildings, story chapters and dialogue.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-007",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Data-driven dialogues",
+          "status": "DESIGN",
+          "description": "Conversation trees separated from code and keyed by ID, day, weather, affinity and quest state.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-008",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Deterministic crop updates",
+          "status": "DESIGN",
+          "description": "Single authoritative day-step function handles growth, care, weather and season effects.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-009",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Fixed economic invariant",
+          "status": "DESIGN",
+          "description": "Debits must be nonnegative, selling removes available inventory once, save state remains valid.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-010",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Season rollovers",
+          "status": "DESIGN",
+          "description": "Spring 10 → Summer 1 across data and UI; winter rollover increments year.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-011",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Time-of-day schedules",
+          "status": "DESIGN",
+          "description": "Business hours and NPC pathing rely on same clock state.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-012",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Hint visibility control",
+          "status": "DESIGN",
+          "description": "Reveal solution only when player obtains clue or user requests spoilers in dev tools.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-013",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Protected spoiler content",
+          "status": "DESIGN",
+          "description": "Do not ship full internal puzzle-solution registry in the public client bundle or public GitHub docs.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-014",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Asset integrity",
+          "status": "DESIGN",
+          "description": "Original art and music only, with license notes per imported asset.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-015",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Performance tests",
+          "status": "DESIGN",
+          "description": "Safari iPhone and desktop checks, low graphics setting, maintain playable frame rate.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-016",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Input tests",
+          "status": "DESIGN",
+          "description": "Move, turn, aim, choose tool, interact, enter door, return home with keyboard and touch.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-017",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Core-loop tests",
+          "status": "DESIGN",
+          "description": "Buy seed → plant → water → sleep several days → harvest → sell → buy upgrade.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-018",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Save-and-resume tests",
+          "status": "DESIGN",
+          "description": "Full world state must survive page refresh and browser return.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-019",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Economy QA",
+          "status": "DESIGN",
+          "description": "No infinite duplicate virtual-sale exploit, no negative currency, no dead-end without seeds.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-020",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Easter egg QA",
+          "status": "DESIGN",
+          "description": "Discover once, award cosmetics once, journal persists, clues don't appear too early.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-021",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Publish gates",
+          "status": "DESIGN",
+          "description": "Mark production feature complete only after observed successful manual/automated check.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-022",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Current implementation status",
+          "status": "OPEN",
+          "description": "An Agent update was submitted but actual resulting playable feature completion has not been independently verified here.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "TECH-023",
+          "section": "16 · Architecture, save safety, QA and development tooling",
+          "title": "Production deployment",
+          "status": "OPEN",
+          "description": "No public production build or end-to-end acceptance signoff was verified in this canon record.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "PUB",
+      "title": "17 · Build in public, community reporting and governance",
+      "entries": [
+        {
+          "id": "PUB-001",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Public participation",
+          "status": "LOCKED",
+          "description": "Fans should see build progress, concept art and opportunities to suggest bounded additions.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-002",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Keep secret answers private",
+          "status": "LOCKED",
+          "description": "Community can see that secrets exist but not direct coordinates, triggers, exact answers or unreleased twists.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-003",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Separate proposal from shipped",
+          "status": "LOCKED",
+          "description": "Each feature must carry status: locked design, proposed, in progress, verified playable or deferred.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-004",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Canon changelog",
+          "status": "DESIGN",
+          "description": "Version, date, change summary, reasons and any reversals.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-005",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Public registry",
+          "status": "DESIGN",
+          "description": "Spoiler-safe IDs and descriptions, planned status and contribution topic.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-006",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "GitHub first",
+          "status": "DESIGN",
+          "description": "Preferred transparent version-controlled repository and Issues for bounded feedback once a writable repository is available.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-007",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Replit devlog",
+          "status": "DESIGN",
+          "description": "Game-facing public changelog with screenshots tagged concept vs actual gameplay and link to repository when ready.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-008",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Reddit supplemental",
+          "status": "DESIGN",
+          "description": "Weekly devlog thread and concrete request for critical feedback, not the only source of truth.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-009",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Hugging Face later",
+          "status": "DESIGN",
+          "description": "Useful for public experimental AI assets/models/datasets but not preferred as source-of-truth for this game design canon.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-010",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Community discussion format",
+          "status": "DESIGN",
+          "description": "Show what shipped, what broke, what's next, and one design question per update.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-011",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Founding principles",
+          "status": "DESIGN",
+          "description": "No pressure to buy token, no price talk as substitute for game quality, no platform availability claim.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-012",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Visual spoiler grading",
+          "status": "DESIGN",
+          "description": "Public concept / teaser-safe lore / spoiler-redacted mystery / internal developer-only solution.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-013",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Owner/editor approval",
+          "status": "DESIGN",
+          "description": "Major canon changes and irreversible publication of story twist need explicit owner approval.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-014",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Contributors",
+          "status": "DESIGN",
+          "description": "Credit approved artwork, code, music and feedback; license/permission must be confirmed.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-015",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Changelog tag",
+          "status": "DESIGN",
+          "description": "`[POTIFY-CITY]` and feature ID on commit/issue titles to maintain traceability.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-016",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Public contribution guideline",
+          "status": "DESIGN",
+          "description": "No copyrighted game assets, no wallet secrets, no doxxing, no real cannabis sales, no scam promos.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-017",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Roadmap realism",
+          "status": "DESIGN",
+          "description": "Show quarters or phases, not specific dates unless schedule and resources are confirmed.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-018",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Public repository",
+          "status": "OPEN",
+          "description": "GitHub connected but no accessible repos returned; repository creation/public setup still needed.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "PUB-019",
+          "section": "17 · Build in public, community reporting and governance",
+          "title": "Reddit posting connection",
+          "status": "OPEN",
+          "description": "No Reddit posting action connected in the current tooling; do not claim a live Reddit post.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    },
+    {
+      "code": "ROAD",
+      "title": "18 · Build order, milestones and open decisions",
+      "entries": [
+        {
+          "id": "ROAD-001",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Direction reset",
+          "status": "LOCKED",
+          "description": "Earthy original GameCube-era 3D, hands-on simulated farm routines, lower-key dog presence.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-002",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 0 baseline",
+          "status": "DESIGN",
+          "description": "Inspect existing Replit assets and code, catalog current abilities and known bugs.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-003",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 1 controls",
+          "status": "DESIGN",
+          "description": "Smooth 3D walk, camera, collisions, iPhone controls and 2–3 functional buildings.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-004",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 1 clock",
+          "status": "DESIGN",
+          "description": "Day clock, player stamina, weather indication, bed and sleep transition.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-005",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 1 growing",
+          "status": "DESIGN",
+          "description": "Physical 3D plot, seed purchase, sowing, watering, growth, harvest.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-006",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 1 market",
+          "status": "DESIGN",
+          "description": "Sell virtual harvest for simSOL, buy real functional upgrade, save and reload.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-007",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 1 NPCs",
+          "status": "DESIGN",
+          "description": "Three strong town residents with schedules and useful first quests.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-008",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 1 mysteries",
+          "status": "DESIGN",
+          "description": "Four in-world subtle secret interactions; do not make story requirements necessary for basic planting.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-009",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 2 quality",
+          "status": "DESIGN",
+          "description": "Higher-fidelity original 3D buildings, better environment ambience and asset optimization.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-010",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 2 seasons",
+          "status": "DESIGN",
+          "description": "Four season visuals, schedule changes, event calendar and constraints.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-011",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 2 relationships",
+          "status": "DESIGN",
+          "description": "Trust and memory, dialogue progression, simple NPC arcs.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-012",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 2 genetics",
+          "status": "DESIGN",
+          "description": "Simplified original breeding discovery, rare packet notebook and research quests.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-013",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 2 city",
+          "status": "DESIGN",
+          "description": "The Heights, Riverwalk, labs and arcade as interconnected, distinct destinations.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-014",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 2 soundtrack",
+          "status": "DESIGN",
+          "description": "Record/discovery system, weather and seasonal music transitions.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-015",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 3 Chapters",
+          "status": "DESIGN",
+          "description": "Book I and Book II optional quest paths with approval-gated canonical endings.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-016",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 3 properties",
+          "status": "DESIGN",
+          "description": "Larger greenhouse, repairs, warehouse and community town upgrades.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-017",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 4 optional co-op",
+          "status": "FUTURE",
+          "description": "Exploration and collaborative play after stable single player and privacy protections.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-018",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 4 wallet profile",
+          "status": "FUTURE",
+          "description": "Non-custodial read-only experiment subject to owner approval and security checks.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-019",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Phase 4 independent chain",
+          "status": "FUTURE",
+          "description": "Speculative infrastructure research only; no actual POTIFY native blockchain claimed and not required for gameplay.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-020",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Immediate QA",
+          "status": "OPEN",
+          "description": "Complete and verify 10–15 minute meaningful first-day gameplay and several sleep/harvest days.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-021",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Canon proper names",
+          "status": "OPEN",
+          "description": "Founder should approve non-Shylo NPC names before hardcoding as final.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-022",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Final secret chain",
+          "status": "OPEN",
+          "description": "Designers may refine triggers, clue placement and rewards without public spoilers.",
+          "visibility": "PUBLIC"
+        },
+        {
+          "id": "ROAD-023",
+          "section": "18 · Build order, milestones and open decisions",
+          "title": "Release schedule",
+          "status": "OPEN",
+          "description": "No promised launch day or storefronts.",
+          "visibility": "PUBLIC"
+        }
+      ]
+    }
+  ]
+}

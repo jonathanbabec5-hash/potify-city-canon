@@ -1,0 +1,470 @@
+id,section,title,status,visibility,description
+ROOT-001,"01 · Game identity, pillars and boundaries",Working game title,LOCKED,PUBLIC,"$POTIFY: A Wonderful High Life; short universe label POTIFY City, with title treatment of A Wonderful High Life."
+ROOT-002,"01 · Game identity, pillars and boundaries",Central genre,LOCKED,PUBLIC,"Original cozy 3D farming/life simulator rooted in early-2000s GameCube-era pacing and controls, set in a fictional cannabis-growing city."
+ROOT-003,"01 · Game identity, pillars and boundaries",Inspirational lineage,LOCKED,PUBLIC,"Emulate the feeling of Harvest Moon: A Wonderful Life and some Animal Crossing social exploration; do not reproduce copyrighted code, maps, layouts, characters, music or art assets."
+ROOT-004,"01 · Game identity, pillars and boundaries",The city is the farm,LOCKED,PUBLIC,Small grow plot or rooftop greenhouse at first; a living neighborhood and progressively larger property replace the traditional inherited farm.
+ROOT-005,"01 · Game identity, pillars and boundaries",Daily life first,LOCKED,PUBLIC,"In-world movement, chores, seasons, conversation, shopping, sleeping and meaningful passage of time drive gameplay."
+ROOT-006,"01 · Game identity, pillars and boundaries",Grow–harvest–sell–upgrade,LOCKED,PUBLIC,"The repeatable backbone of the game: acquire fictional genetics and supplies, care for virtual plants, harvest, sell, expand."
+ROOT-007,"01 · Game identity, pillars and boundaries",Seed → Soil → Solana,LOCKED,PUBLIC,"Canonical POTIFY motto may appear subtly on books, signs, murals, ending titles and the journal."
+ROOT-008,"01 · Game identity, pillars and boundaries",The city has history,LOCKED,PUBLIC,Small details should imply that the town existed before the player arrived; do not explain every mystery with exposition.
+ROOT-009,"01 · Game identity, pillars and boundaries",Wonder without glitter,LOCKED,PUBLIC,"Calm, grounded, witty, inhabited; little magical moments are rare and earn their impact."
+ROOT-010,"01 · Game identity, pillars and boundaries",Shylo's identity,LOCKED,PUBLIC,"Shylo is a gray/cream Norwegian Elkhound with pointed ears and a curled tail; ambient supporting companion, not the central mascot."
+ROOT-011,"01 · Game identity, pillars and boundaries",Fictional commerce,LOCKED,PUBLIC,"The game does not sell, deliver, redeem or enable purchases of real-world cannabis."
+ROOT-012,"01 · Game identity, pillars and boundaries",No financial promises,LOCKED,PUBLIC,"Gameplay achievements, lore and Easter eggs do not promise real crypto, price appreciation or holder rewards."
+ROOT-013,"01 · Game identity, pillars and boundaries",Work in public,LOCKED,PUBLIC,"Publish honest visual concepts, feature progress and changelogs without leaking puzzle answers or calling concepts finished gameplay."
+ROOT-014,"01 · Game identity, pillars and boundaries",Clear feature status,LOCKED,PUBLIC,"User requests, concept art, assigned Replit work and actually verified playable functions are different evidence levels."
+ROOT-015,"01 · Game identity, pillars and boundaries",No platform claims,LOCKED,PUBLIC,"No Steam, Epic, Xbox, PlayStation, Nintendo or other distribution support can be claimed without a verified release plan/approval."
+ROOT-016,"01 · Game identity, pillars and boundaries",GLP separation,LOCKED,PUBLIC,GreenLight Pay is unrelated to the fictional game economy and never presented as payment processing or token utility for this game.
+ROOT-017,"01 · Game identity, pillars and boundaries",The first scene,DESIGN,PUBLIC,"Wake in a modest room, notice a written task list, step into early morning, and survey a neglected growing space."
+ROOT-018,"01 · Game identity, pillars and boundaries",Emotional arc,DESIGN,PUBLIC,"Player learns responsibility through failure, rebuilding, friendships, and incremental improvements—not fast-money fireworks."
+ROOT-019,"01 · Game identity, pillars and boundaries",Game identity shorthand,DESIGN,PUBLIC,"From one rooftop (or modest plot) to a living city, with a long-term chapter of stewardship rather than an instant empire."
+ROOT-020,"01 · Game identity, pillars and boundaries",Final IP and game publisher structure,OPEN,PUBLIC,"Working title and design are set; trademark/rights, age ratings, official business ownership and platform agreements require separate verification."
+ART-001,"02 · Visual direction, interface and presentation",GameCube-era mood,LOCKED,PUBLIC,Muted stylized 3D inspired by original A Wonderful Life rather than bright mobile anime or modern high-saturation remake aesthetics.
+ART-002,"02 · Visual direction, interface and presentation",Grounded colors,LOCKED,PUBLIC,"Worn olive, hay, dirt brown, weathered timber, concrete, brick, washed blue, soft yellow daylight, restrained green."
+ART-003,"02 · Visual direction, interface and presentation",No pink-first city,LOCKED,PUBLIC,"Avoid pink or lavender-dominated skies, giant cherry blossoms, pastel kawaii UI, glitter, neon everywhere."
+ART-004,"02 · Visual direction, interface and presentation",People look like residents,LOCKED,PUBLIC,"Modestly proportioned original 3D characters, readable silhouettes, worn practical clothes, human expressions."
+ART-005,"02 · Visual direction, interface and presentation",UI serves the chores,LOCKED,PUBLIC,Real-time scene takes priority over menus; small tool/status HUD; only contextual dialogue and shop panels when needed.
+ART-006,"02 · Visual direction, interface and presentation",No poster-as-gameplay,LOCKED,PUBLIC,Splash artwork is not proof of a 3D world; screenshots should come from the actual game when called gameplay.
+ART-007,"02 · Visual direction, interface and presentation",Originalized reference,LOCKED,PUBLIC,"Use user-approved calmer concept board as guiding composition, with actual game props and work replacing decorative UI panels."
+ART-008,"02 · Visual direction, interface and presentation",Third-person camera,DESIGN,PUBLIC,"Slightly above-and-behind follow camera, gentle perspective, manual turn and restrained distance options."
+ART-009,"02 · Visual direction, interface and presentation",Weathering and aging,DESIGN,PUBLIC,"Wood chips, weather stains, dusty shelves, slightly crooked signs, used tools, creek stones, weeds between paving stones."
+ART-010,"02 · Visual direction, interface and presentation",Interior lighting,DESIGN,PUBLIC,Greenhouse daylight and subtle magenta grow lights only where justified; softer shadows indoors.
+ART-011,"02 · Visual direction, interface and presentation",Sky and clouds,DESIGN,PUBLIC,"Blue-gray mornings, warm amber evenings, genuine dusk; cloud coverage changes by weather."
+ART-012,"02 · Visual direction, interface and presentation",Plant silhouettes,DESIGN,PUBLIC,"Obvious visual difference between small vegetative plants, flowering plants and harvest-ready crops."
+ART-013,"02 · Visual direction, interface and presentation",Shopfront typography,DESIGN,PUBLIC,Painted shop signs and parchment-style tooltips; not huge hovering branded signs on every corner.
+ART-014,"02 · Visual direction, interface and presentation",Journal graphics,DESIGN,PUBLIC,"Handwritten notebook, worn paper tabs, pressed-leaf bookmarks and map annotation stickers."
+ART-015,"02 · Visual direction, interface and presentation",Map design,DESIGN,PUBLIC,Hand-drawn village/district sketch with discovered locations; no false claims that all neighborhoods are unlocked.
+ART-016,"02 · Visual direction, interface and presentation",Character portrait restraint,DESIGN,PUBLIC,"Optional dialogue portraits, original design, no oversized chibi eyes."
+ART-017,"02 · Visual direction, interface and presentation",Visible domesticity,DESIGN,PUBLIC,"A sink, bed, dirty boots, calendar, kettle, hallway, shelf and meaningful storage."
+ART-018,"02 · Visual direction, interface and presentation",Gentle animations,DESIGN,PUBLIC,"Breathing, head turns, routine idle behavior, watering, sorting harvests, sweeping, opening storefronts."
+ART-019,"02 · Visual direction, interface and presentation",An imperfect town,DESIGN,PUBLIC,"Trucks, billboards, fences, service alleys, little hill trails and quiet water rather than an amusement park."
+ART-020,"02 · Visual direction, interface and presentation",Visual reward cadence,DESIGN,PUBLIC,Big reveal for a building upgrade or first harvest; everything else subtle.
+GEO-001,"03 · Districts, geography and transportation",POTIFY City exists as setting,LOCKED,PUBLIC,"Fictional urban district system with a main square, residential area, growing district, shops and connected back routes."
+GEO-002,"03 · Districts, geography and transportation",The Heights,DESIGN,PUBLIC,"Elevated district of homes, old roof plots, radio masts and views of the city, linked to initial grow space."
+GEO-003,"03 · Districts, geography and transportation",Greenhouse Row,DESIGN,PUBLIC,"Series of modest attached glasshouses, weathered suppliers and garden repair shops."
+GEO-004,"03 · Districts, geography and transportation",Central Plaza,DESIGN,PUBLIC,"Stone fountain, noticeboard, market days, festival area and NPC crossing point."
+GEO-005,"03 · Districts, geography and transportation",The Market,DESIGN,PUBLIC,Buyers and street stalls with schedule-sensitive prices and occasional seasonal goods.
+GEO-006,"03 · Districts, geography and transportation",Riverside,DESIGN,PUBLIC,"Apartments and smaller homes by a creek/canal with footbridge, benches and quiet walks."
+GEO-007,"03 · Districts, geography and transportation",The District,DESIGN,PUBLIC,"Workshops, cafes, seed suppliers, trade counters, locally owned stores and varied residents."
+GEO-008,"03 · Districts, geography and transportation",The Labs,DESIGN,PUBLIC,"Applied fiction genetics/research precinct, gradually accessible through research progression."
+GEO-009,"03 · Districts, geography and transportation",The Underground,DESIGN,PUBLIC,"Rumored drains, utility passages and forgotten basement corridors; not prominent on starting map."
+GEO-010,"03 · Districts, geography and transportation",The Park,DESIGN,PUBLIC,"Relaxed area for walking, festivals, conversations, collectibles and seasonal change."
+GEO-011,"03 · Districts, geography and transportation",Orchard Edge,DESIGN,PUBLIC,"Quiet green belt near city where forest paths contrast with concrete, without making it a new farm simulator."
+GEO-012,"03 · Districts, geography and transportation",Old Industrial Ward,DESIGN,PUBLIC,"Late-game warehouse zones, practical equipment yards and production logistics."
+GEO-013,"03 · Districts, geography and transportation",City Hall and Clock Tower,DESIGN,PUBLIC,"Public building with records, town notices and clock references, no oversized monument."
+GEO-014,"03 · Districts, geography and transportation",Rooftop Walkways,DESIGN,PUBLIC,Limited bridges and ladders linking roofs when unlocking these paths makes navigational sense.
+GEO-015,"03 · Districts, geography and transportation",The Canal Walk,DESIGN,PUBLIC,Nighttime streetlights reflect on water; seasonal vendors and rare dialogue appear.
+GEO-016,"03 · Districts, geography and transportation",Backstreet Courtyard,DESIGN,PUBLIC,"Small everyday location for deliveries, trash bins, murals and subtle hidden triggers."
+GEO-017,"03 · Districts, geography and transportation",Home lane,DESIGN,PUBLIC,Starter house or apartment connected to starter grow space by a walkable path.
+GEO-018,"03 · Districts, geography and transportation",Local buses and tram,FUTURE,PUBLIC,Potential schedule-based transport after walking map exists and is satisfying.
+GEO-019,"03 · Districts, geography and transportation",Bicycle,FUTURE,PUBLIC,"Optional mobility upgrade, with safe street-level route rules."
+GEO-020,"03 · Districts, geography and transportation",Day-night city routes,FUTURE,PUBLIC,"Vendors change posts, street lamps operate and some gates close with time."
+GEO-021,"03 · Districts, geography and transportation",Definitive layout,OPEN,PUBLIC,Exact relative positions and travel times remain design work; concept maps are not canonical exact geometries.
+VEN-001,"04 · Buildings, shops and indoor spaces",Starter home,DESIGN,PUBLIC,"Bed, calendar, inventory shelf, handwritten chore list, basic wardrobe, journal and a small outdoor transition."
+VEN-002,"04 · Buildings, shops and indoor spaces",Rooftop starter plot,DESIGN,PUBLIC,"Four workable sites, salvaged buckets, a creaky gate, nearby water and a weathered bench."
+VEN-003,"04 · Buildings, shops and indoor spaces",Beginner greenhouse,DESIGN,PUBLIC,"First useful expanded structure; shelter, modest capacity and visible cost/upkeep."
+VEN-004,"04 · Buildings, shops and indoor spaces",Seed Bank,DESIGN,PUBLIC,"Starter genetics and finite stock, seasonal and relationship-gated items, collectible label designs."
+VEN-005,"04 · Buildings, shops and indoor spaces",Soil and Supply,DESIGN,PUBLIC,"Soil mixes, nutrients represented as simplified game items, watering tools, compost/repair upgrades."
+VEN-006,"04 · Buildings, shops and indoor spaces",POTIFY Dispensary,DESIGN,PUBLIC,"Fictional in-world buyer for virtual harvest, not a real dispensary or real-world transaction link."
+VEN-007,"04 · Buildings, shops and indoor spaces",The Grow Shop,DESIGN,PUBLIC,"Practical equipment, fans and lighting upgrades, maintenance tasks and price board."
+VEN-008,"04 · Buildings, shops and indoor spaces",Genetics Lab,DESIGN,PUBLIC,"Research table, small original mini-games, hybrid trait records and lab NPC arc."
+VEN-009,"04 · Buildings, shops and indoor spaces",Research Annex,DESIGN,PUBLIC,"Optional Chapter 2 site where rare genetics clues, lost records and town history converge."
+VEN-010,"04 · Buildings, shops and indoor spaces",Town Market Stalls,DESIGN,PUBLIC,Limited opening hours and scheduled market days.
+VEN-011,"04 · Buildings, shops and indoor spaces",The Soil Cafe,DESIGN,PUBLIC,Neighborhood social meeting spot; menu and NPC schedules rather than real-world commerce.
+VEN-012,"04 · Buildings, shops and indoor spaces",The Lounge,DESIGN,PUBLIC,"Music and nighttime conversation, low-key ambience, optional non-player events."
+VEN-013,"04 · Buildings, shops and indoor spaces",DJ Booth,DESIGN,PUBLIC,Town-owned community venue with audio collectibles and rotating performances.
+VEN-014,"04 · Buildings, shops and indoor spaces",Mechanic's Shop,DESIGN,PUBLIC,"Roof repairs, generators, plumbing upgrades and broken irrigation line quests."
+VEN-015,"04 · Buildings, shops and indoor spaces",Archive and Library,DESIGN,PUBLIC,"Books, paper archives, local photographs, Chronicle excerpts, book lending."
+VEN-016,"04 · Buildings, shops and indoor spaces",Warehouse,DESIGN,PUBLIC,"Expansion from handmade work to larger operation, maintaining resource/time constraints."
+VEN-017,"04 · Buildings, shops and indoor spaces",Cold Storage,DESIGN,PUBLIC,"Product inventory, spoilage timers as game mechanics, sorting and packing."
+VEN-018,"04 · Buildings, shops and indoor spaces",Friend's Apartment,DESIGN,PUBLIC,An unlockable interior for a meaningful NPC story rather than endless identical interiors.
+VEN-019,"04 · Buildings, shops and indoor spaces",The Old Observatory,DESIGN,PUBLIC,"Rooftop quiet place, astronomy and long-distance city vista; secret unlock candidate."
+VEN-020,"04 · Buildings, shops and indoor spaces",The Arcade,DESIGN,PUBLIC,Retro local venue; candidate for an original playable Vape God reference.
+VEN-021,"04 · Buildings, shops and indoor spaces",The Inn,DESIGN,PUBLIC,Temporary visitor rooms and seasonal arrivals; only if NPC system supports traveler schedules.
+VEN-022,"04 · Buildings, shops and indoor spaces",Extra farm lots,FUTURE,PUBLIC,"Multiple properties across districts, each with distinct tradeoffs."
+VEN-023,"04 · Buildings, shops and indoor spaces",Community Greenhouse,FUTURE,PUBLIC,Optional cooperative narrative project without real token payouts.
+TIME-001,"05 · Life, time, seasons, weather and routines",Time matters,LOCKED,PUBLIC,"Daily obligations, routines and changing locations should be meaningful—not merely a timer icon."
+TIME-002,"05 · Life, time, seasons, weather and routines",Four seasons,DESIGN,PUBLIC,"Spring, summer, autumn, winter with distinct color, environment, market stock and schedule patterns."
+TIME-003,"05 · Life, time, seasons, weather and routines",Short seasons,DESIGN,PUBLIC,Candidate 10 game days per season during early testing; tunable for gameplay satisfaction.
+TIME-004,"05 · Life, time, seasons, weather and routines",Day progression,DESIGN,PUBLIC,Approx. 12–18 minutes per game day unless the player sleeps or enters a controlled time skip.
+TIME-005,"05 · Life, time, seasons, weather and routines",Sleep to advance,DESIGN,PUBLIC,"Player enters bed and begins next morning; crop state, calendar, weather and NPC schedules update."
+TIME-006,"05 · Life, time, seasons, weather and routines",Morning ritual,DESIGN,PUBLIC,"Check calendar, weather, plants and supplies before choosing route."
+TIME-007,"05 · Life, time, seasons, weather and routines",Shop hours,DESIGN,PUBLIC,Doors may be closed outside business hours; clock becomes meaningful.
+TIME-008,"05 · Life, time, seasons, weather and routines",NPC commuting,DESIGN,PUBLIC,"Shopkeepers open/close, eat, visit market and return home; route schedules persist by day."
+TIME-009,"05 · Life, time, seasons, weather and routines",Weather state,DESIGN,PUBLIC,"Sun, cloud and rain; changes ambience, growth modifiers, water availability and schedule decisions."
+TIME-010,"05 · Life, time, seasons, weather and routines",Outdoor shelter,DESIGN,PUBLIC,"Open plots and greenhouses respond differently to rain, wind and winter."
+TIME-011,"05 · Life, time, seasons, weather and routines",Temperature abstraction,DESIGN,PUBLIC,"Simple season/environment suitability modifier, not a real-world cultivation instruction manual."
+TIME-012,"05 · Life, time, seasons, weather and routines",Player stamina,DESIGN,PUBLIC,"Watering, cleaning and chores consume a manageable resource, restored by sleep or simple meals."
+TIME-013,"05 · Life, time, seasons, weather and routines",Reputation passage,DESIGN,PUBLIC,Residents remember years of events and completed chores.
+TIME-014,"05 · Life, time, seasons, weather and routines",Seasonal renovations,DESIGN,PUBLIC,"Storefronts, town banners, market stalls and props change incrementally."
+TIME-015,"05 · Life, time, seasons, weather and routines",Birthdays,DESIGN,PUBLIC,NPC calendar birthdays provide small optional relationship moments.
+TIME-016,"05 · Life, time, seasons, weather and routines",Seasonal visitors,DESIGN,PUBLIC,Traveling vendor or archivist arrives on certain weeks.
+TIME-017,"05 · Life, time, seasons, weather and routines",Calendar journal,DESIGN,PUBLIC,"Appointment, event, crop estimate and daily note page."
+TIME-018,"05 · Life, time, seasons, weather and routines",Rainy afternoon,DESIGN,PUBLIC,"Slower streets, cover sounds, conversations that vary with weather."
+TIME-019,"05 · Life, time, seasons, weather and routines",Generational epilogue,FUTURE,PUBLIC,Long-running town changes could culminate in an epilogue rather than an infinite wealth grind.
+TIME-020,"05 · Life, time, seasons, weather and routines",Weather emergencies,FUTURE,PUBLIC,"Power outage or leaks as accessible fictional maintenance quests, with no unsafe real-world repair instructions."
+GROW-001,06 · Virtual cultivation and genetics,Cannabis-inspired fiction,LOCKED,PUBLIC,Virtual cannabis varieties form the main crop category and visual identity of the game.
+GROW-002,06 · Virtual cultivation and genetics,Hands-on care loop,LOCKED,PUBLIC,"Approach actual 3D plot, ready tool, sow, water, inspect, wait, harvest and see consequences."
+GROW-003,06 · Virtual cultivation and genetics,Soil preparation,DESIGN,PUBLIC,One-button simplified plot clearing and preparation before sowing.
+GROW-004,06 · Virtual cultivation and genetics,Seeds as inventory,DESIGN,PUBLIC,"Varieties with visual packet labels, prices, simple traits and quantities."
+GROW-005,06 · Virtual cultivation and genetics,Planting interaction,DESIGN,PUBLIC,"Place seed physically into empty available plot, see new world-object state."
+GROW-006,06 · Virtual cultivation and genetics,Moisture state,DESIGN,PUBLIC,Abstract 0–100 condition affecting plant health and maturation; clear but not technical real-world guidance.
+GROW-007,06 · Virtual cultivation and genetics,Watering can,DESIGN,PUBLIC,"Visibly animate water particles; can and plot state update, no duplicate rewards from repeated input."
+GROW-008,06 · Virtual cultivation and genetics,Basic soil supplies,DESIGN,PUBLIC,"Consumable item associated with plot condition, accessible fictional simplification."
+GROW-009,06 · Virtual cultivation and genetics,Plant health,DESIGN,PUBLIC,"Visual and journal feedback, can recover under normal player care."
+GROW-010,06 · Virtual cultivation and genetics,Growth stages,DESIGN,PUBLIC,"Seed / sprout / vegetative / flowering / ripe / harvested, visually distinct."
+GROW-011,06 · Virtual cultivation and genetics,Growth on sleep,DESIGN,PUBLIC,"Each day transition advances plant maturity, with season and variety affecting progress."
+GROW-012,06 · Virtual cultivation and genetics,Quality grades,DESIGN,PUBLIC,"Game rating such as B, A and S for appearance/value; avoid copying another game's proprietary UI."
+GROW-013,06 · Virtual cultivation and genetics,Yield stat,DESIGN,PUBLIC,"Each mature plant produces a quantity of virtual harvest units, influenced by care and variety."
+GROW-014,06 · Virtual cultivation and genetics,Cure / pack phase,DESIGN,PUBLIC,"Simplified post-harvest timer or button station; game loop detail, not real-world procedural guidance."
+GROW-015,06 · Virtual cultivation and genetics,Genetics notebook,DESIGN,PUBLIC,Record discovered fictional traits and combinations.
+GROW-016,06 · Virtual cultivation and genetics,Breeding lab,DESIGN,PUBLIC,Unlockable system to combine fictional strain traits via abstracted research mini-game.
+GROW-017,06 · Virtual cultivation and genetics,Variety resilience,DESIGN,PUBLIC,Simple resistance to in-game stressful weather/poor care.
+GROW-018,06 · Virtual cultivation and genetics,Variety rarity,DESIGN,PUBLIC,"Ordinary / unusual / rare / archival; scarcity earned by discovery, not financial speculation."
+GROW-019,06 · Virtual cultivation and genetics,Starter variety,DESIGN,PUBLIC,Sour Diesel appears in prior art concepts and can be an optional named starter strain; no trademark claims.
+GROW-020,06 · Virtual cultivation and genetics,Blue Dream,DESIGN,PUBLIC,Proposed familiar strain label from art; only use with careful naming and fictional rules.
+GROW-021,06 · Virtual cultivation and genetics,OG Kush,DESIGN,PUBLIC,"Optional recognizable strain name from concept board, not guaranteed content."
+GROW-022,06 · Virtual cultivation and genetics,Girl Scout Cookies,DESIGN,PUBLIC,Concept art variety name; use generic creative replacement if necessary for legal/trademark fit.
+GROW-023,06 · Virtual cultivation and genetics,Gelato,DESIGN,PUBLIC,Concept art variety name; not a published product or real genetics claim.
+GROW-024,06 · Virtual cultivation and genetics,Runtz,DESIGN,PUBLIC,Concept art variety name; not a published product or real genetics claim.
+GROW-025,06 · Virtual cultivation and genetics,Purple Stardust,DESIGN,PUBLIC,Original fantasy variety from promotional concept art; optional unlockable.
+GROW-026,06 · Virtual cultivation and genetics,Bubbles Blueberry F4,DESIGN,PUBLIC,"Allusion to documented POTIFY seed inventory; proposed journal collectible, not necessarily actual game cultivation."
+GROW-027,06 · Virtual cultivation and genetics,Strawberry Birthday Cake,DESIGN,PUBLIC,Allusion to real POTIFY seed pack inventory; collectible label or lore prop candidate.
+GROW-028,06 · Virtual cultivation and genetics,Heart Shaped Lunch Box,DESIGN,PUBLIC,Unusual seed packet name tied to lore clue; proposed collector's item.
+GROW-029,06 · Virtual cultivation and genetics,Brainstorm,DESIGN,PUBLIC,Special collector seed packet and possible mushroom-related pun.
+GROW-030,06 · Virtual cultivation and genetics,Golden Cipher,DESIGN,PUBLIC,Seed collection codeword that can tie into mysterious Book II hints.
+GROW-031,06 · Virtual cultivation and genetics,Royal Queen,DESIGN,PUBLIC,Name seen in documented inventory; use only with permission/trademark review if appearing in finished game.
+GROW-032,06 · Virtual cultivation and genetics,Bomb,DESIGN,PUBLIC,Seed inventory callback; future naming/style approval needed.
+GROW-033,06 · Virtual cultivation and genetics,Plant Doctor,DESIGN,PUBLIC,"In-game educational observation journal referencing POTIFY Plant Doctor as universe theme, not diagnosing live plants."
+GROW-034,06 · Virtual cultivation and genetics,Pest and deficiency events,DESIGN,PUBLIC,"Simple game alerts, abstract symbolic conditions; avoid step-by-step real cannabis grow troubleshooting in public promo."
+GROW-035,06 · Virtual cultivation and genetics,Composting,DESIGN,PUBLIC,Converts in-world waste to fictional soil booster with time and opportunity cost.
+GROW-036,06 · Virtual cultivation and genetics,Automatic irrigation,DESIGN,PUBLIC,Larger property upgrade reduces repetitive watering but costs maintenance/energy.
+GROW-037,06 · Virtual cultivation and genetics,Greenhouse lighting,DESIGN,PUBLIC,Equipment upgrade gives game growth modifier with upkeep and reliability.
+GROW-038,06 · Virtual cultivation and genetics,Harvest sorting,DESIGN,PUBLIC,"Player chooses to sell, store, gift to NPC in-fiction only or put aside for research."
+GROW-039,06 · Virtual cultivation and genetics,Catalog entries,DESIGN,PUBLIC,All discovered varieties gain original illustrated notebook pages.
+GROW-040,06 · Virtual cultivation and genetics,Seasonal strain festivals,FUTURE,PUBLIC,"Compare fictional varieties by aesthetics, story and care rather than real plant potency."
+GROW-041,06 · Virtual cultivation and genetics,Cross-generational hybrids,FUTURE,PUBLIC,Unlock later research chapters and library clues.
+ITEM-001,"07 · Tools, resources, furniture and collectibles",Starter watering can,DESIGN,PUBLIC,"Basic low-capacity tool, manual refills."
+ITEM-002,"07 · Tools, resources, furniture and collectibles",Improved watering can,DESIGN,PUBLIC,First upgrade reduces chore time and unlocks a larger watering area.
+ITEM-003,"07 · Tools, resources, furniture and collectibles",Soil spade,DESIGN,PUBLIC,"Basic plot-preparation prop, visible in use."
+ITEM-004,"07 · Tools, resources, furniture and collectibles",Pruning shears,DESIGN,PUBLIC,Animation/maintenance tool without teaching real-world grow steps.
+ITEM-005,"07 · Tools, resources, furniture and collectibles",Compost bin,DESIGN,PUBLIC,"Object placed by plot, passively converts fictional yard material into abstract resource."
+ITEM-006,"07 · Tools, resources, furniture and collectibles",Water tank,DESIGN,PUBLIC,World object powering refill point; upgrade affects convenience.
+ITEM-007,"07 · Tools, resources, furniture and collectibles",Irrigation kit,DESIGN,PUBLIC,Unlockable automated watering for a small subset of plots.
+ITEM-008,"07 · Tools, resources, furniture and collectibles",Fans,DESIGN,PUBLIC,Indoor equipment with simple energy and condition modifiers.
+ITEM-009,"07 · Tools, resources, furniture and collectibles",Grow lights,DESIGN,PUBLIC,Indoor equipment consuming simSOL energy/upkeep.
+ITEM-010,"07 · Tools, resources, furniture and collectibles",Simple environmental monitor,DESIGN,PUBLIC,Game-only status readout for greenhouse conditions.
+ITEM-011,"07 · Tools, resources, furniture and collectibles",Workbench,DESIGN,PUBLIC,"Repairs, makes fictional household items and maintains tools."
+ITEM-012,"07 · Tools, resources, furniture and collectibles",Seed tray,DESIGN,PUBLIC,Plant inventory organization display and visual upgrade.
+ITEM-013,"07 · Tools, resources, furniture and collectibles",Harvest crate,DESIGN,PUBLIC,Carry and store current harvest as inventory units.
+ITEM-014,"07 · Tools, resources, furniture and collectibles",Storage jars,DESIGN,PUBLIC,Fictional curing/packaging item and collectible shelf aesthetic.
+ITEM-015,"07 · Tools, resources, furniture and collectibles",Delivery cart,DESIGN,PUBLIC,Improves throughput to market without driving real-world cannabis deliveries.
+ITEM-016,"07 · Tools, resources, furniture and collectibles",Wallpaper and flooring,DESIGN,PUBLIC,House customization through earned in-game currency.
+ITEM-017,"07 · Tools, resources, furniture and collectibles",Household furniture,DESIGN,PUBLIC,"Bed, shelf, table, rug, tea set, desk, photo frame, planters, record player."
+ITEM-018,"07 · Tools, resources, furniture and collectibles",Seasonal clothing,DESIGN,PUBLIC,"Plain work clothes, jackets, raincoat and warm gear; customization over costumes."
+ITEM-019,"07 · Tools, resources, furniture and collectibles",Tool durability,DESIGN,PUBLIC,"Optional gentle upkeep cost, not a punishing survival mechanic."
+ITEM-020,"07 · Tools, resources, furniture and collectibles",Pressed leaf bookmark,DESIGN,PUBLIC,Narrative cosmetic reward from Chronicle exploration.
+ITEM-021,"07 · Tools, resources, furniture and collectibles",Record collection,DESIGN,PUBLIC,A few original POTIFY tracks/story audio found in venues and shops.
+ITEM-022,"07 · Tools, resources, furniture and collectibles",City postcards,DESIGN,PUBLIC,Small collectibles rewarding travel and remembering town changes.
+ITEM-023,"07 · Tools, resources, furniture and collectibles",Bulletin stamps,DESIGN,PUBLIC,Cosmetic stamps for journal chapters and optional discoveries.
+ITEM-024,"07 · Tools, resources, furniture and collectibles",Decorative greenhouse,FUTURE,PUBLIC,"High-tier customize glass/woodwork, but keep silhouette believable."
+ITEM-025,"07 · Tools, resources, furniture and collectibles",Trophy display,FUTURE,PUBLIC,Shelf for seasonal achievements and story trinkets.
+ECON-001,08 · Fictional economy and business progression,Two-level naming,LOCKED,PUBLIC,Real Solana $POTIFY exists outside game; fictional harvest quantity is NOT an actual fungible token or claim on real cannabis.
+ECON-002,08 · Fictional economy and business progression,simSOL,LOCKED,PUBLIC,"In-game simulated, nontransferable monetary balance, visually distinct from actual SOL and clearly labeled virtual."
+ECON-003,08 · Fictional economy and business progression,In-game harvest units,LOCKED,PUBLIC,Harvest output is numerically tracked as virtual POTIFY-themed inventory units; cannot be redeemed for real tokens or products.
+ECON-004,08 · Fictional economy and business progression,No real money checkout,LOCKED,PUBLIC,Shops and markets exchange only fictional resources for simSOL; no direct real cannabis transaction or actual token transfer.
+ECON-005,08 · Fictional economy and business progression,Starter balance,DESIGN,PUBLIC,"Initial candidate balance 120 simSOL, subject to tuning and testing."
+ECON-006,08 · Fictional economy and business progression,Starter capacity,DESIGN,PUBLIC,"Four plots, upgradeable to six/eight and larger facilities."
+ECON-007,08 · Fictional economy and business progression,Seed entry cost,DESIGN,PUBLIC,"Candidate 15 simSOL per seed packet, tune against pacing."
+ECON-008,08 · Fictional economy and business progression,Input cost,DESIGN,PUBLIC,Candidate 4 simSOL per grow slot/cycle in basic soil inputs.
+ECON-009,08 · Fictional economy and business progression,Baseline yield,DESIGN,PUBLIC,Candidate 4 virtual harvest units per plant at baseline grade.
+ECON-010,08 · Fictional economy and business progression,Base sell price,DESIGN,PUBLIC,"Candidate 8 simSOL per harvest unit, with supply/demand and grade modifiers."
+ECON-011,08 · Fictional economy and business progression,Four-plot baseline,DESIGN,PUBLIC,Candidate 4 × (4 × 8 − 15 − 4) = 52 simSOL net for a complete 4-plot cycle.
+ECON-012,08 · Fictional economy and business progression,First upgrade price,DESIGN,PUBLIC,Candidate 180–200 simSOL for a useful watering/plot improvement; rebalance after playtests.
+ECON-013,08 · Fictional economy and business progression,Quality modifiers,DESIGN,PUBLIC,"Candidate B 1.00×, A 1.25×, S 1.50× base sale price."
+ECON-014,08 · Fictional economy and business progression,Shop opening hours,DESIGN,PUBLIC,Buyer closes and opens; player needs to plan sales or store product.
+ECON-015,08 · Fictional economy and business progression,Market fluctuation,DESIGN,PUBLIC,"Mild day-to-day price range, clearly simulated and not tied to real crypto charts."
+ECON-016,08 · Fictional economy and business progression,Shopkeeper relationship,DESIGN,PUBLIC,"Trust unlocks discounts or more variety, not guaranteed financial return."
+ECON-017,08 · Fictional economy and business progression,Property upgrades,DESIGN,PUBLIC,Rooftop plot → modest greenhouse → warehouse → several city properties.
+ECON-018,08 · Fictional economy and business progression,Operating costs,DESIGN,PUBLIC,"Light/energy/repairs and care costs prevent idle exploitation, but no hard soft locks."
+ECON-019,08 · Fictional economy and business progression,Inventory/storage,DESIGN,PUBLIC,"Unsold goods, supplies, and seed packets persist after sleep and reload."
+ECON-020,08 · Fictional economy and business progression,Research funding,DESIGN,PUBLIC,Spend simSOL to unlock fictional hybrids and in-world lab access.
+ECON-021,08 · Fictional economy and business progression,Optional contract board,DESIGN,PUBLIC,Predictable fictional wholesale orders with capped quantity/reward.
+ECON-022,08 · Fictional economy and business progression,Cosmetics sink,DESIGN,PUBLIC,Furniture and city decoration as optional spending destinations.
+ECON-023,08 · Fictional economy and business progression,Event entry costs,DESIGN,PUBLIC,Any contest must use virtual-only currency and avoid chance-based financial prizes.
+ECON-024,08 · Fictional economy and business progression,Shop ownership,FUTURE,PUBLIC,Gameplay fantasy of upgrading or operating a fictional retail location with extra chores and staff schedules.
+ECON-025,08 · Fictional economy and business progression,City reputation,FUTURE,PUBLIC,"Town-level metric for helpful participation and story progression, separate from virtual finances."
+ECON-026,08 · Fictional economy and business progression,Optional token/profile display,FUTURE,PUBLIC,Read-only Solana wallet display after security and legal review; no wallet connection needed to play.
+ECON-027,08 · Fictional economy and business progression,Live crypto integration,OPEN,PUBLIC,"Not a committed feature or reward program; wallet transaction signing, convertibility and any reward economics are not approved."
+NPC-001,09 · Characters and relationships,Shylo,LOCKED,PUBLIC,"Norwegian Elkhound, gray and cream double coat, pointed ears, curled tail; low-key ambient companion with occasional interaction, not mascot."
+NPC-002,09 · Characters and relationships,The Player,DESIGN,PUBLIC,"Customizable adult resident, new caretaker of small growing property, not automatically the real project founder."
+NPC-003,09 · Characters and relationships,Bram Reed / soil mentor,DESIGN,PUBLIC,"Proposed older soil-and-supplies owner; taciturn, observant, thinks patience is a job skill. Name requires creative approval."
+NPC-004,09 · Characters and relationships,Mira Vale / market buyer,DESIGN,PUBLIC,"Proposed practical, no-nonsense buyer who assesses grade fairly and notices patterns; name requires approval."
+NPC-005,09 · Characters and relationships,DJ Myco / musician,DESIGN,PUBLIC,"Proposed night venue musician, keeps a strangely annotated setlist and scattered Chronicle hints; name from previously suggested clue."
+NPC-006,09 · Characters and relationships,Elin Moss / archivist,DESIGN,PUBLIC,Proposed town librarian tracking old greenhouse records and city construction ledgers.
+NPC-007,09 · Characters and relationships,Dr. Ada Linden / lab researcher,DESIGN,PUBLIC,Proposed friendly but exacting fictional geneticist interested in why certain heirlooms disappear from records.
+NPC-008,09 · Characters and relationships,Jax Quarry / mechanic,DESIGN,PUBLIC,"Proposed repair-shop worker, solves leaks and wind damage, sometimes tells jokes too late."
+NPC-009,09 · Characters and relationships,Rowan Pike / rival grower,DESIGN,PUBLIC,Proposed rival who begins competitive and gradually respects careful work.
+NPC-010,09 · Characters and relationships,Tessa Bloom / inn owner,DESIGN,PUBLIC,Proposed owner of local rooms and seasonal guestbook.
+NPC-011,09 · Characters and relationships,The visiting vendor,DESIGN,PUBLIC,Rotating masked or unnamed supplier who sometimes has an unusual packet.
+NPC-012,09 · Characters and relationships,The Old Grower,DESIGN,PUBLIC,Archetype from concept art; mentor role should be consolidated with Bram unless designer approves a separate NPC.
+NPC-013,09 · Characters and relationships,The Chemist,DESIGN,PUBLIC,Concept-art archetype; combine with Dr. Ada unless needed as separate character.
+NPC-014,09 · Characters and relationships,The Dispensary Owner,DESIGN,PUBLIC,Concept-art archetype; combine with Mira unless a second buyer is needed.
+NPC-015,09 · Characters and relationships,The DJ,DESIGN,PUBLIC,Concept-art archetype; use DJ Myco as strong working candidate.
+NPC-016,09 · Characters and relationships,The Investor,DESIGN,PUBLIC,"Concept-art archetype: a socially awkward crypto enthusiast; optional comic NPC, NOT a hype/financial-promises spokesperson."
+NPC-017,09 · Characters and relationships,The Rival,DESIGN,PUBLIC,"Concept-art archetype: Rowan Pike, competitive but human, with a personal reason for obsessing over grades."
+NPC-018,09 · Characters and relationships,The Love Interest,DESIGN,PUBLIC,"Possible player-chosen relationship path, not a single canon love character."
+NPC-019,09 · Characters and relationships,Town kid,DESIGN,PUBLIC,"Non-combat town resident with age-appropriate conversations, not involved in cannabis purchases."
+NPC-020,09 · Characters and relationships,Retired courier,DESIGN,PUBLIC,"Knows service alleys, delivers generic packages and remembers vanished businesses."
+NPC-021,09 · Characters and relationships,Bus driver,DESIGN,PUBLIC,Makes the city's hours visible and comments on weather.
+NPC-022,09 · Characters and relationships,Festival organizer,DESIGN,PUBLIC,Schedules markets and small community events.
+NPC-023,09 · Characters and relationships,Book collector,DESIGN,PUBLIC,Exchanges ordinary in-game collectibles for lore and decor.
+NPC-024,09 · Characters and relationships,Neighborhood groundskeeper,DESIGN,PUBLIC,"Hears every rumor, tells most of them wrong, and knows the park's real maintenance history."
+NPC-025,09 · Characters and relationships,The unknown grower,DESIGN,PUBLIC,Chronicle-linked silhouette seen in old photos; identity intentionally unresolved.
+NPC-026,09 · Characters and relationships,Friendship levels,DESIGN,PUBLIC,"Greetings → acquaintances → trusted friends → personal quest, paced over in-game weeks."
+NPC-027,09 · Characters and relationships,NPC schedules,DESIGN,PUBLIC,"Work, home, weather, festival and visit locations with recurring behavior."
+NPC-028,09 · Characters and relationships,Dialogue bank,DESIGN,PUBLIC,Personality-specific short lines; no generic lore dump or incessant POTIFY slogan.
+NPC-029,09 · Characters and relationships,Romantic relationships,FUTURE,PUBLIC,"Slow, optional adult romance and domestic progression, no obligatory marriage."
+NPC-030,09 · Characters and relationships,Family arc,FUTURE,PUBLIC,"Possible later chapter feature, not represented as already playable."
+NPC-031,09 · Characters and relationships,Generational townsfolk,FUTURE,PUBLIC,Long-term changing ages and responsibilities in an epilogue chapter.
+NPC-032,09 · Characters and relationships,Canon NPC proper names,OPEN,PUBLIC,Only Shylo is explicitly user-confirmed in this chat; other proposed first/last names await approval.
+LORE-001,"10 · Main story, Chronicles connections and future chapters",The POTIFY Chronicles,LOCKED,PUBLIC,"Separate fictional narrative that informs game atmosphere, books, clues, and long-term reconstruction theme."
+LORE-002,"10 · Main story, Chronicles connections and future chapters",Book I title,LOCKED,PUBLIC,The First Cycle.
+LORE-003,"10 · Main story, Chronicles connections and future chapters",Book II title,LOCKED,PUBLIC,The Soil Remembers.
+LORE-004,"10 · Main story, Chronicles connections and future chapters",First-cycle narrative pillars,LOCKED,PUBLIC,"First seed, roots, canopy, flip, stretch, imbalance, rot, loss and reconstruction."
+LORE-005,"10 · Main story, Chronicles connections and future chapters",Fiction boundary,LOCKED,PUBLIC,"No Chronicle clue can be treated as a real market signal, token buy instruction or promised launch."
+LORE-006,"10 · Main story, Chronicles connections and future chapters",Chapter IX ending,OPEN,REDACTED_OPEN,Original recovered record did not settle Book I Chapter IX ending; do not fabricate as approved canon.
+LORE-007,"10 · Main story, Chronicles connections and future chapters",The notebook owner,OPEN,REDACTED_OPEN,"Older Chronicle notebook is a meaningful asset, but ownership and precise contents are unresolved."
+LORE-008,"10 · Main story, Chronicles connections and future chapters",Chance's Chronicle role,OPEN,REDACTED_OPEN,The Chronicle character Chance has an unresolved precise biography/role in older source; don't conflate user identity with NPC portrayal.
+LORE-009,"10 · Main story, Chronicles connections and future chapters",Older man's identity,OPEN,REDACTED_OPEN,Existing Chronicle thread left older man's precise role unknown.
+LORE-010,"10 · Main story, Chronicles connections and future chapters",Original seed provenance,OPEN,REDACTED_OPEN,Do not invent factual origin stories for historical seed pack references.
+LORE-011,"10 · Main story, Chronicles connections and future chapters",Prologue: The Lease,DESIGN,PUBLIC,Player receives access to modest grow space and a handwritten instruction to 'start where they stopped.'
+LORE-012,"10 · Main story, Chronicles connections and future chapters",Act I: The First Day,DESIGN,PUBLIC,Small chores and first NPC introductions; no grand revelations or immediate wealth.
+LORE-013,"10 · Main story, Chronicles connections and future chapters",Act II: The First Cycle,DESIGN,PUBLIC,Successful first harvest contrasts with archivist's ambiguous photo of an older greenhouse.
+LORE-014,"10 · Main story, Chronicles connections and future chapters",Act III: A Missing Season,DESIGN,PUBLIC,Local records and personal stories hint at a lost grow cycle; gradual mystery.
+LORE-015,"10 · Main story, Chronicles connections and future chapters",Act IV: The Soil Remembers,DESIGN,PUBLIC,"Town rebuilds former property and reconstructs what the first loss did to the people, not just plants."
+LORE-016,"10 · Main story, Chronicles connections and future chapters",Act V: A City Worth Keeping,DESIGN,PUBLIC,Player's choices reveal what makes the city resilient; neighborhood and relationship outcomes matter.
+LORE-017,"10 · Main story, Chronicles connections and future chapters",Storytime pacing,DESIGN,PUBLIC,"Uncover small mystery scraps during ordinary chores, never force hours of cutscenes to understand basic mechanics."
+LORE-018,"10 · Main story, Chronicles connections and future chapters",The First Cycle paperback,DESIGN,PUBLIC,Readable in-world book prop with excerpt; only publish approved fiction and avoid copying old text verbatim without source check.
+LORE-019,"10 · Main story, Chronicles connections and future chapters",The Soil Remembers hardcover,DESIGN,PUBLIC,Worn book with pressed-leaf bookmark and a recurring page reference; copies appear in several places for story reasons.
+LORE-020,"10 · Main story, Chronicles connections and future chapters",Reconstruction,DESIGN,PUBLIC,"Thematically central: repair what failed, acknowledge loss, learn, change behavior."
+LORE-021,"10 · Main story, Chronicles connections and future chapters",The Canopy,DESIGN,PUBLIC,Recurring poetic image: what is visible above ground may hide problems below.
+LORE-022,"10 · Main story, Chronicles connections and future chapters",Hidden records,DESIGN,PUBLIC,"Property ledgers, old labels, annotated photos and wrong addresses build the town history."
+LORE-023,"10 · Main story, Chronicles connections and future chapters",Parallel timelines,DESIGN,PUBLIC,"Story can show an old era of city cultivation through found media, not direct plot exposition."
+LORE-024,"10 · Main story, Chronicles connections and future chapters",Three-generation theme,DESIGN,PUBLIC,"Later story might explore who planted, who maintained, who inherits; not explicit human biological generations."
+LORE-025,"10 · Main story, Chronicles connections and future chapters",Community chronicle,DESIGN,PUBLIC,"Approved submissions might become town message-board jokes, never unvetted real people or a trading endorsement."
+LORE-026,"10 · Main story, Chronicles connections and future chapters",Multiple epilogues,DESIGN,PUBLIC,"End states determined by care, friendship and town restorations rather than accumulated token balances."
+LORE-027,"10 · Main story, Chronicles connections and future chapters",Book-to-game chapter branching,FUTURE,PUBLIC,Future Chronicles installments can connect via optional story missions and artifact descriptions without retconning unresolved original chapters.
+QUEST-001,"11 · Tutorials, errands, friendships and quest arcs",The Keys and the Kettle,DESIGN,PUBLIC,"First morning: walk home, read calendar, inspect roof, meet mentor."
+QUEST-002,"11 · Tutorials, errands, friendships and quest arcs",Just Four Pots,DESIGN,PUBLIC,Clear four starter plots and make them usable.
+QUEST-003,"11 · Tutorials, errands, friendships and quest arcs",The First Packet,DESIGN,PUBLIC,"Visit Seed Bank, choose affordable virtual starter genetics and return home."
+QUEST-004,"11 · Tutorials, errands, friendships and quest arcs",Soil on Your Boots,DESIGN,PUBLIC,"Prepare, sow and water first plot in actual third-person world."
+QUEST-005,"11 · Tutorials, errands, friendships and quest arcs",Nobody Opens at Midnight,DESIGN,PUBLIC,Discover shop hours and use calendar to plan a trip.
+QUEST-006,"11 · Tutorials, errands, friendships and quest arcs",The First Night,DESIGN,PUBLIC,"Return home and sleep, advance crops by one day."
+QUEST-007,"11 · Tutorials, errands, friendships and quest arcs",The Waiting Game,DESIGN,PUBLIC,"Realize plant progress requires multiple game days and good care, not instant button mashing."
+QUEST-008,"11 · Tutorials, errands, friendships and quest arcs",A Fair Price,DESIGN,PUBLIC,"First harvest, store, visit buyer, complete virtual sale and record result."
+QUEST-009,"11 · Tutorials, errands, friendships and quest arcs",Better Than Yesterday,DESIGN,PUBLIC,Purchase a first practical watering/plot upgrade using earned simSOL.
+QUEST-010,"11 · Tutorials, errands, friendships and quest arcs",Under the Sink,DESIGN,PUBLIC,Help mechanic fix a fictional leaky line; unlock water tank perk.
+QUEST-011,"11 · Tutorials, errands, friendships and quest arcs",Soil Knows,DESIGN,PUBLIC,Recover a missing delivery for mentor; unlock a quiet journal anecdote.
+QUEST-012,"11 · Tutorials, errands, friendships and quest arcs",The Lab's Ledger,DESIGN,PUBLIC,Find an old seed label for researcher; unlock fictional trait comparison.
+QUEST-013,"11 · Tutorials, errands, friendships and quest arcs",A Stranger's Setlist,DESIGN,PUBLIC,DJ asks for a record; find a track hidden in a normal public shop.
+QUEST-014,"11 · Tutorials, errands, friendships and quest arcs",The Rain Check,DESIGN,PUBLIC,Reschedule a town meeting after rain; teaches NPC schedule changes.
+QUEST-015,"11 · Tutorials, errands, friendships and quest arcs",Do Not Touch the Clock,DESIGN,PUBLIC,A local jokes about a clock that never quite reaches the next minute.
+QUEST-016,"11 · Tutorials, errands, friendships and quest arcs",Housewarming,DESIGN,PUBLIC,Place one decorative item and invite a friendly resident.
+QUEST-017,"11 · Tutorials, errands, friendships and quest arcs",Lost Courier Parcel,DESIGN,PUBLIC,Solve confusing but harmless town addresses; reveal a service route.
+QUEST-018,"11 · Tutorials, errands, friendships and quest arcs",The Market Morning,DESIGN,PUBLIC,Seasonal small-town festival with a tiny non-cash cosmetic award.
+QUEST-019,"11 · Tutorials, errands, friendships and quest arcs",Old Foundation,DESIGN,PUBLIC,Inspect fenced damaged greenhouse and learn someone used to work there.
+QUEST-020,"11 · Tutorials, errands, friendships and quest arcs",The First Page,DESIGN,PUBLIC,Find a Chronicle excerpt through routine work; add journal bookmark.
+QUEST-021,"11 · Tutorials, errands, friendships and quest arcs",Labeled Seven Ways,DESIGN,PUBLIC,Gather collectible packet labels over different town days.
+QUEST-022,"11 · Tutorials, errands, friendships and quest arcs",Mutual Respect,DESIGN,PUBLIC,"Rival judges completed work, then asks for help during weather event."
+QUEST-023,"11 · Tutorials, errands, friendships and quest arcs",Rooftop Permit,DESIGN,PUBLIC,Fictional civic quest to expand grow building using simSOL and neighbor approval.
+QUEST-024,"11 · Tutorials, errands, friendships and quest arcs",The Night Walk,DESIGN,PUBLIC,Archivist leaves a daytime hint to return near plaza after dark.
+QUEST-025,"11 · Tutorials, errands, friendships and quest arcs",The Roof Repairs,DESIGN,PUBLIC,Gather standard fictional materials to repair a greenhouse before next season.
+QUEST-026,"11 · Tutorials, errands, friendships and quest arcs",The Festival Board,DESIGN,PUBLIC,Choose between three small community preparation tasks; no real rewards.
+QUEST-027,"11 · Tutorials, errands, friendships and quest arcs",A Different Harvest,DESIGN,PUBLIC,Optional non-financial quest about collecting memories and oral histories.
+QUEST-028,"11 · Tutorials, errands, friendships and quest arcs",The Disappearing Address,DESIGN,PUBLIC,A torn map label points to an old facility that no one remembers in the same way.
+QUEST-029,"11 · Tutorials, errands, friendships and quest arcs","Rebuild, Don't Replace",DESIGN,PUBLIC,Late-game town project has choices based on relationships and upkeep.
+QUEST-030,"11 · Tutorials, errands, friendships and quest arcs",Town legacy chapter,FUTURE,PUBLIC,"Wider ending chain with district progress, restored areas and personal epilogue scenes."
+EGG-001,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",4:19 shop clock,DESIGN,PUBLIC_HINT_ONLY,A dusty clock is inexplicably stuck at 4:19; common residents dismiss the question.
+EGG-002,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",4:20 fountain moment,DESIGN,PUBLIC_HINT_ONLY,A brief understated visual response may happen at exactly the right in-game time; cosmetic discovery only.
+EGG-003,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Soil Remembers book,DESIGN,PUBLIC_HINT_ONLY,One weathered copy is partially hidden; reading it starts a larger trail.
+EGG-004,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Pressed leaf bookmark,DESIGN,PUBLIC_HINT_ONLY,"Discoverable inside a Chronicle book, stored in journal."
+EGG-005,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Seven seed-packet labels,DESIGN,PUBLIC_HINT_ONLY,Collector set distributed among reasonable everyday locations.
+EGG-006,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Seed / Soil / Solana glyphs,DESIGN,PUBLIC_HINT_ONLY,Three understated city markings can form a clue to a forgotten route.
+EGG-007,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Forgotten rooftop observatory,DESIGN,PUBLIC_HINT_ONLY,Cozy tiny room unlocked by a sequence of mundane discoveries.
+EGG-008,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The old greenhouse,DESIGN,PUBLIC_HINT_ONLY,"Secret property site tied to Chronicle-inspired reconstruction story, not a real historical location."
+EGG-009,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The VHS room,DESIGN,PUBLIC_HINT_ONLY,Unassuming locked room with a television and recorded fiction recalling The First Cycle.
+EGG-010,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The 17M crate,DESIGN,PUBLIC_HINT_ONLY,"Old cargo box numbered 17M; strictly a fictional reference, not a transferable token prize."
+EGG-011,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Brainstorm Patch,DESIGN,PUBLIC_HINT_ONLY,Strange mushroom-growing nook and an NPC whose 'brainstorm' always happens when it rains.
+EGG-012,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Vape God Arcade,DESIGN,PUBLIC_HINT_ONLY,Original in-world arcade cabinet referencing prior POTIFY browser game; use branded adaptation only with art and gameplay rights review.
+EGG-013,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Lost Strain,DESIGN,PUBLIC_HINT_ONLY,A fictional archival seed record linked to missing Chronicle pages; no claim of real genetics.
+EGG-014,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Broadcast,DESIGN,PUBLIC_HINT_ONLY,Radio picks up unusually calm cryptic late-night messages.
+EGG-015,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Distant forest silhouette,DESIGN,PUBLIC_HINT_ONLY,"A playful possible sasquatch-like silhouette, rare and ambiguous, never a big horror reveal."
+EGG-016,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Grateful Grower,DESIGN,PUBLIC_HINT_ONLY,Folklore nod to someone quietly leaving a gift; no direct musician likeness or licensed song references.
+EGG-017,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Mysterious Van,DESIGN,PUBLIC_HINT_ONLY,Unremarkable box van moves between locations according to a sparse schedule; no prizes or illicit dealings.
+EGG-018,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Nighttime conspiracy radio,DESIGN,PUBLIC_HINT_ONLY,Odd talk program called 'The City Is Listening' with self-mocking theories.
+EGG-019,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Underground greenhouse,DESIGN,PUBLIC_HINT_ONLY,Small in-world forgotten research room discovered by the player after city access.
+EGG-020,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The 420 NPC,DESIGN,PUBLIC_HINT_ONLY,"A resident who's always in a peculiar place at a particular time, with a dry line not a token signal."
+EGG-021,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Reclaim terminal,DESIGN,PUBLIC_HINT_ONLY,"Fictional old computer terminal that sorts lost archive entries, a playful callback to Project Reclaim; no wallet drain, real token burn or fee."
+EGG-022,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Alien seed rumor,DESIGN,PUBLIC_HINT_ONLY,A completely fictional sci-fi genetics collectible that may be an NPC prank.
+EGG-023,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Full-moon door,DESIGN,PUBLIC_HINT_ONLY,Weathered maintenance gate seen closed normally; optional one-night window to uncover a memory.
+EGG-024,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",2-of-3 toolbox latch,DESIGN,PUBLIC_HINT_ONLY,"Three-worker old safety latch, requires asking NPCs for help; not connected to real multisig credentials."
+EGG-025,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles","Low Light, Water Moving",DESIGN,PUBLIC_HINT_ONLY,"Song title on DJ Myco's setlist, collectible music or listening hint."
+EGG-026,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The First Cycle spine,DESIGN,PUBLIC_HINT_ONLY,An unremarkable book in shop shelves visually connects library and Chronicle.
+EGG-027,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Noon on Tuesday,DESIGN,PUBLIC_HINT_ONLY,"Town board advertises an event with a perfectly reasonable hour, but NPC insists it's a superstition."
+EGG-028,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Noticeboard typo,DESIGN,PUBLIC_HINT_ONLY,A sign gets 'Seed to Soil' wrong until someone corrects it a week later.
+EGG-029,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Empty Pot Trophy,DESIGN,PUBLIC_HINT_ONLY,Decor for the player who intentionally lets one nonessential planter remain empty through a season.
+EGG-030,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Patient Neighbor,DESIGN,PUBLIC_HINT_ONLY,"Resident who only updates dialogue after the player has slept enough days, without any special button."
+EGG-031,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Greenhouse 0,DESIGN,PUBLIC_HINT_ONLY,"Maintenance label on a locked old greenhouse, referenced in a forgotten invoice."
+EGG-032,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The River's Reflection,DESIGN,PUBLIC_HINT_ONLY,A particular light reflection reveals a painting or symbol on the underside of a bridge.
+EGG-033,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Wrong Street Name,DESIGN,PUBLIC_HINT_ONLY,Town's oldest map and newest city sign disagree over one narrow lane.
+EGG-034,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Lost Label,DESIGN,PUBLIC_HINT_ONLY,A plant packet behind a mundane purchase receipt is more important than its value.
+EGG-035,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Silent Record,DESIGN,PUBLIC_HINT_ONLY,Old record sleeve with no track listed; mysterious audio unlock after friendship.
+EGG-036,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Clockmaker's Receipt,DESIGN,PUBLIC_HINT_ONLY,Shop repair note records three dates but conspicuously omits one season.
+EGG-037,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Kettle Whistle,DESIGN,PUBLIC_HINT_ONLY,"In one weather condition, kitchen ambience briefly resembles a musical phrase from the soundtrack."
+EGG-038,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Rainwater Note,DESIGN,PUBLIC_HINT_ONLY,Crumpled piece of paper under a tank describing 'what the rain took' without showing a map marker.
+EGG-039,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Secret Bench Conversation,DESIGN,PUBLIC_HINT_ONLY,Sitting on a particular bench at sunset can trigger a 2-line conversation after a quest.
+EGG-040,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Janitor's Key,DESIGN,PUBLIC_HINT_ONLY,A caretaker's mundane key explains more than a giant magical glowing door would.
+EGG-041,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Slowest NPC,DESIGN,PUBLIC_HINT_ONLY,One townsperson takes a remarkably circuitous route to work yet insists it's the fastest.
+EGG-042,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Unread Invoice,DESIGN,PUBLIC_HINT_ONLY,Mundane account entry subtly hints where the old warehouse used to be.
+EGG-043,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Greenhouse Window,DESIGN,PUBLIC_HINT_ONLY,"A brief nighttime silhouette visible from afar, but empty when investigated immediately."
+EGG-044,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Special License Plate,DESIGN,PUBLIC_HINT_ONLY,"Rusty van plate with a recurring Chronicle phrase, never an actual wallet/address."
+EGG-045,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Fourth Mug,DESIGN,PUBLIC_HINT_ONLY,"At a table of three NPCs, an extra mug appears when an old friend is remembered."
+EGG-046,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",24/7 Broadcast Joke,DESIGN,PUBLIC_HINT_ONLY,Station sign promises nonstop broadcast but goes off-air for one inexplicable minute.
+EGG-047,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",The Fourth Wall Tool,DESIGN,PUBLIC_HINT_ONLY,A farmer complains about invisible grid lines only after the player bumps the same fence too often.
+EGG-048,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Fake Sponsor Catalogue,DESIGN,PUBLIC_HINT_ONLY,"A few tiny fake-brand props (TerraBud Soil Co., ChillMint Games, Glowfern Industries, Mosslight Studios) appear as fictional town suppliers; not real partners."
+EGG-049,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Shylo's Quiet Spot,DESIGN,PUBLIC_HINT_ONLY,"Shylo sometimes waits at an ordinary patch of grass. The hint is environmental, not the main plot."
+EGG-050,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Holiday seed note,FUTURE,PUBLIC_HINT_ONLY,A modest handwritten seasonal clue unlocked by long-term neighborhood participation.
+EGG-051,"12 · Easter eggs, secrets, glitches-in-the-fiction and collectibles",Secret festival finale,FUTURE,PUBLIC_HINT_ONLY,Multi-season collection unlocks an optional story scene with non-financial reward.
+SYS-001,"13 · Mechanics, controls and quality of life",Third-person movement,DESIGN,PUBLIC,"WASD on desktop and virtual joystick on phones, smooth collision-based movement."
+SYS-002,"13 · Mechanics, controls and quality of life",Camera turn,DESIGN,PUBLIC,Mouse/right stick/touch camera movement and collision-safe follow.
+SYS-003,"13 · Mechanics, controls and quality of life",Context action,DESIGN,PUBLIC,"Clear tap/interact button near doors, plots, shopkeepers and collectibles."
+SYS-004,"13 · Mechanics, controls and quality of life",Running,DESIGN,PUBLIC,Optional short sprint without turning the game into a speedrun.
+SYS-005,"13 · Mechanics, controls and quality of life",Interactable doors,DESIGN,PUBLIC,"Walk physically into home, shop, greenhouse and small interior."
+SYS-006,"13 · Mechanics, controls and quality of life",Tool wheel,DESIGN,PUBLIC,"Small accessible selector for watering can, spade and inventory use."
+SYS-007,"13 · Mechanics, controls and quality of life",Inventory tabs,DESIGN,PUBLIC,"Seeds, tools, virtual harvested inventory, furniture and collectibles."
+SYS-008,"13 · Mechanics, controls and quality of life",Quick status,DESIGN,PUBLIC,"Time, season, weather, stamina and currently selected tool."
+SYS-009,"13 · Mechanics, controls and quality of life",Grow plot tooltip,DESIGN,PUBLIC,"Plant variety, current stage, broad condition, anticipated readiness without overspecifying real horticulture."
+SYS-010,"13 · Mechanics, controls and quality of life",Shop interface,DESIGN,PUBLIC,"Present item price and player simSOL, confirm changes before virtual purchase."
+SYS-011,"13 · Mechanics, controls and quality of life",Save/load,DESIGN,PUBLIC,"Persist player position, NPC affinity, crop state, in-game simSOL, upgrades, time, secrets and journal."
+SYS-012,"13 · Mechanics, controls and quality of life",Autosave,DESIGN,PUBLIC,"Save on sleep, important transactions and route changes, plus manual option."
+SYS-013,"13 · Mechanics, controls and quality of life",Versioned saves,DESIGN,PUBLIC,Migration and validation to avoid old save corruptions after updates.
+SYS-014,"13 · Mechanics, controls and quality of life",Mobile safe area,DESIGN,PUBLIC,"Support iPhone browser safe-area margins, scalable touch targets and landscape viewing."
+SYS-015,"13 · Mechanics, controls and quality of life",Performance budget,DESIGN,PUBLIC,"Small original world cells, simple GPU-friendly 3D assets, culling and restrained lighting."
+SYS-016,"13 · Mechanics, controls and quality of life",Map marker categories,DESIGN,PUBLIC,"Known open shop, unvisited site, home, task, event; no complete secret routes."
+SYS-017,"13 · Mechanics, controls and quality of life",Quest journal,DESIGN,PUBLIC,"In-world descriptions, next useful hint, optional spoiler controls."
+SYS-018,"13 · Mechanics, controls and quality of life",Discovery journal,DESIGN,PUBLIC,Found count and individual discovered entries; unknown secrets remain hidden.
+SYS-019,"13 · Mechanics, controls and quality of life",Settings,DESIGN,PUBLIC,"Sound, contrast/readability, controls, save/reset with clear consequences."
+SYS-020,"13 · Mechanics, controls and quality of life",Pause flow,DESIGN,PUBLIC,"Consistent pausing of game clock, NPC motion and timer."
+SYS-021,"13 · Mechanics, controls and quality of life",Accessibility,DESIGN,PUBLIC,"Adjustable dialogue speed, subtitles, color-coded plus textual quality indicators."
+SYS-022,"13 · Mechanics, controls and quality of life",User consent,DESIGN,PUBLIC,Adult-content acknowledgement and virtual-economy disclosure on start without excessive friction.
+SYS-023,"13 · Mechanics, controls and quality of life",Deterministic demo testing,DESIGN,PUBLIC,"Fixed day and seed schedule for QA tests, not player-facing exploit."
+SYS-024,"13 · Mechanics, controls and quality of life",Progress gate,DESIGN,PUBLIC,Tutorial objective cannot be completed by changing a menu field only; must perform real action.
+SYS-025,"13 · Mechanics, controls and quality of life",Rare-secret integrity,DESIGN,PUBLIC,Finding an item updates persistent discovery state exactly once.
+SYS-026,"13 · Mechanics, controls and quality of life",Gamepad support,FUTURE,PUBLIC,Native controller mapping after keyboard/touch parity is tested.
+SYS-027,"13 · Mechanics, controls and quality of life",Cloud player accounts,FUTURE,PUBLIC,Optional account profiles and account-linked server persistence after privacy/security review.
+SYS-028,"13 · Mechanics, controls and quality of life",Multiple saved residents,FUTURE,PUBLIC,Separate profiles and settings for family shared devices.
+SOC-001,"14 · Festivals, social life, customization and modes",Community market day,DESIGN,PUBLIC,"Weekly or seasonal NPC market, rotating displays and visitors."
+SOC-002,"14 · Festivals, social life, customization and modes",Spring Bloom Fest,DESIGN,PUBLIC,Community planting decorations and friendship quests; toned down pink visuals.
+SOC-003,"14 · Festivals, social life, customization and modes",Summer Sunrise Jam,DESIGN,PUBLIC,Morning music gathering around town stage; original song catalogue.
+SOC-004,"14 · Festivals, social life, customization and modes",Autumn Harvest Fest,DESIGN,PUBLIC,"Fictional quality showcase and town pride, not wager-based competition."
+SOC-005,"14 · Festivals, social life, customization and modes",Winter Repair Fair,DESIGN,PUBLIC,"Maintenance, old photographs and help-neighbor quests during low growth season."
+SOC-006,"14 · Festivals, social life, customization and modes",Rooftop Cup,DESIGN,PUBLIC,Fictional non-wagered cultivation show with cosmetic trophy and story reactions.
+SOC-007,"14 · Festivals, social life, customization and modes",Street musician set,DESIGN,PUBLIC,DJ Myco plays occasional short in-game performances and collectible records.
+SOC-008,"14 · Festivals, social life, customization and modes",Town noticeboard,DESIGN,PUBLIC,"Events, errands, community ideas and funny hand-written changes."
+SOC-009,"14 · Festivals, social life, customization and modes",NPC friend milestones,DESIGN,PUBLIC,"Gifts of in-game cosmetics, home visits, unlocked dialogue and deeper personal arcs."
+SOC-010,"14 · Festivals, social life, customization and modes",House decoration,DESIGN,PUBLIC,"Floors, plants, shelves, posters and furniture earned via simSOL."
+SOC-011,"14 · Festivals, social life, customization and modes",Wardrobe,DESIGN,PUBLIC,"Plain workwear, rain gear, jackets, light seasonal outfits."
+SOC-012,"14 · Festivals, social life, customization and modes",Fishing-style downtime,DESIGN,PUBLIC,Non-cannabis side activity such as creek photography and lost-item finding; avoid a direct Harvest Moon clone.
+SOC-013,"14 · Festivals, social life, customization and modes",Cafe social hub,DESIGN,PUBLIC,Chats and changing schedules with a few funny menu entries.
+SOC-014,"14 · Festivals, social life, customization and modes",Dog interactions,DESIGN,PUBLIC,"Optional brief play/pet Shylo scenes, integrated rarely."
+SOC-015,"14 · Festivals, social life, customization and modes",Player-run town project,FUTURE,PUBLIC,Community-approved shared fictional upgrade that doesn't entail real token rewards.
+SOC-016,"14 · Festivals, social life, customization and modes",Online co-op,FUTURE,PUBLIC,Optional peaceful collaborative town life; not a first vertical-slice feature.
+SOC-017,"14 · Festivals, social life, customization and modes",Sandbox Mode,FUTURE,PUBLIC,Relaxed building/cultivation mode after story loop is stable.
+SOC-018,"14 · Festivals, social life, customization and modes",Story Mode,FUTURE,PUBLIC,Chronicles-inspired main arc with progression checkpoints.
+SOC-019,"14 · Festivals, social life, customization and modes",Seasonal screenshot contest,FUTURE,PUBLIC,"Community creative events, separate from blockchain trading and with clear entry rules."
+SOC-020,"14 · Festivals, social life, customization and modes",Public lore voting,FUTURE,PUBLIC,"Narrow, feasible choices like shop signage or NPC pet name; not token governance or IP transfer."
+AUDIO-001,"15 · Sound, score, trailer and marketing",Calm promotional tone,LOCKED,PUBLIC,"No exaggerated wealth or investment claims, no cringe 'next big chain' promises."
+AUDIO-002,"15 · Sound, score, trailer and marketing",Honest development label,LOCKED,PUBLIC,'In development / concept art' for visuals not captured from an implemented game.
+AUDIO-003,"15 · Sound, score, trailer and marketing",Warm folk soundtrack,DESIGN,PUBLIC,"Gentle acoustic guitar, subtle synth pads, soft keys, warm town ambience rather than club music."
+AUDIO-004,"15 · Sound, score, trailer and marketing",Seasonal acoustic themes,DESIGN,PUBLIC,Distinct versions of calm motifs across four seasons.
+AUDIO-005,"15 · Sound, score, trailer and marketing",Morning soundscape,DESIGN,PUBLIC,"Birds, feet on wood, breeze, bucket sounds, soft market distant chatter."
+AUDIO-006,"15 · Sound, score, trailer and marketing",Rain,DESIGN,PUBLIC,"Roof patter, water flowing, indoor muffling and creaky drainage."
+AUDIO-007,"15 · Sound, score, trailer and marketing",Evening scene,DESIGN,PUBLIC,"Cicadas, footsteps, distant cars, soft porch music and subtle electric hum."
+AUDIO-008,"15 · Sound, score, trailer and marketing",Tool foley,DESIGN,PUBLIC,"Watering, footsteps, putting away supplies and shop till."
+AUDIO-009,"15 · Sound, score, trailer and marketing",Ambient dog sounds,DESIGN,PUBLIC,"Occasional Shylo pant, paw scuff or quiet bark, not a recurring audio gimmick."
+AUDIO-010,"15 · Sound, score, trailer and marketing",Chronicle audio fragments,DESIGN,PUBLIC,"Small original recordings unlocked through discovery, not real unreleased copyrighted music."
+AUDIO-011,"15 · Sound, score, trailer and marketing",The Soil Remembers motif,DESIGN,PUBLIC,Minor-key progression appears rarely as narrative clue.
+AUDIO-012,"15 · Sound, score, trailer and marketing",Teaser narrative,DESIGN,PUBLIC,One rooftop → first chores → first harvest → town interaction → lingering mystery → short title reveal.
+AUDIO-013,"15 · Sound, score, trailer and marketing",No poster slideshow substitute,LOCKED,PUBLIC,Promotional motion should be meaningful moving 3D/cinematic scenes; if using animated stills disclose that format.
+AUDIO-014,"15 · Sound, score, trailer and marketing",Press kit,DESIGN,PUBLIC,"Game description, screenshots separated by 'concept' versus 'gameplay', logo, story summary, feature status, contact path."
+AUDIO-015,"15 · Sound, score, trailer and marketing",Art board restraint,DESIGN,PUBLIC,"User preferred less crowded early poster with left hero character, large title, limited game panels and readable economy/market loop."
+AUDIO-016,"15 · Sound, score, trailer and marketing",Fictional sponsor gag,DESIGN,PUBLIC,Decorative fake sponsor logos can exist as lore only and must be labeled fictional; do not imply real platform partnerships.
+AUDIO-017,"15 · Sound, score, trailer and marketing",Development updates,DESIGN,PUBLIC,"Publish one concrete completed feature, one current issue, one next milestone; avoid vaporware announcements."
+AUDIO-018,"15 · Sound, score, trailer and marketing",Reddit build log,DESIGN,PUBLIC,"Ask for feedback on town atmosphere, controls, farm pacing; follow subreddit promotion rules."
+AUDIO-019,"15 · Sound, score, trailer and marketing",Real gameplay trailer,FUTURE,PUBLIC,Only after verified walk–plant–water–sleep–harvest–sell–upgrade cycle and recorded footage.
+TECH-001,"16 · Architecture, save safety, QA and development tooling",Existing Replit game project,LOCKED,PUBLIC,Continue the game in the existing separate Replit app CompetentEminentAlgorithms; don't overwrite POTIFY Website or Vape God.
+TECH-002,"16 · Architecture, save safety, QA and development tooling",3D stays 3D,LOCKED,PUBLIC,"Phaser, Kaboom.js and Pygame are 2D prototype options, not appropriate for replacing the requested 3D GameCube-style experience."
+TECH-003,"16 · Architecture, save safety, QA and development tooling",Browser-first renderer,DESIGN,PUBLIC,Preserve existing React/Three.js/React Three Fiber stack if present; verify source before replacing packages.
+TECH-004,"16 · Architecture, save safety, QA and development tooling",Managed database,DESIGN,PUBLIC,Consider Replit managed SQL/Postgres for account saves; begin with versioned reliable local save for anonymous vertical slice.
+TECH-005,"16 · Architecture, save safety, QA and development tooling",Feature flags,DESIGN,PUBLIC,"Keep experimental chemistry, rare Easter eggs and wallet-related functionality off until ready."
+TECH-006,"16 · Architecture, save safety, QA and development tooling",Shared data schema,DESIGN,PUBLIC,"Stable IDs for NPCs, districts, varieties, quests, items, discoveries, buildings, story chapters and dialogue."
+TECH-007,"16 · Architecture, save safety, QA and development tooling",Data-driven dialogues,DESIGN,PUBLIC,"Conversation trees separated from code and keyed by ID, day, weather, affinity and quest state."
+TECH-008,"16 · Architecture, save safety, QA and development tooling",Deterministic crop updates,DESIGN,PUBLIC,"Single authoritative day-step function handles growth, care, weather and season effects."
+TECH-009,"16 · Architecture, save safety, QA and development tooling",Fixed economic invariant,DESIGN,PUBLIC,"Debits must be nonnegative, selling removes available inventory once, save state remains valid."
+TECH-010,"16 · Architecture, save safety, QA and development tooling",Season rollovers,DESIGN,PUBLIC,Spring 10 → Summer 1 across data and UI; winter rollover increments year.
+TECH-011,"16 · Architecture, save safety, QA and development tooling",Time-of-day schedules,DESIGN,PUBLIC,Business hours and NPC pathing rely on same clock state.
+TECH-012,"16 · Architecture, save safety, QA and development tooling",Hint visibility control,DESIGN,PUBLIC,Reveal solution only when player obtains clue or user requests spoilers in dev tools.
+TECH-013,"16 · Architecture, save safety, QA and development tooling",Protected spoiler content,DESIGN,PUBLIC,Do not ship full internal puzzle-solution registry in the public client bundle or public GitHub docs.
+TECH-014,"16 · Architecture, save safety, QA and development tooling",Asset integrity,DESIGN,PUBLIC,"Original art and music only, with license notes per imported asset."
+TECH-015,"16 · Architecture, save safety, QA and development tooling",Performance tests,DESIGN,PUBLIC,"Safari iPhone and desktop checks, low graphics setting, maintain playable frame rate."
+TECH-016,"16 · Architecture, save safety, QA and development tooling",Input tests,DESIGN,PUBLIC,"Move, turn, aim, choose tool, interact, enter door, return home with keyboard and touch."
+TECH-017,"16 · Architecture, save safety, QA and development tooling",Core-loop tests,DESIGN,PUBLIC,Buy seed → plant → water → sleep several days → harvest → sell → buy upgrade.
+TECH-018,"16 · Architecture, save safety, QA and development tooling",Save-and-resume tests,DESIGN,PUBLIC,Full world state must survive page refresh and browser return.
+TECH-019,"16 · Architecture, save safety, QA and development tooling",Economy QA,DESIGN,PUBLIC,"No infinite duplicate virtual-sale exploit, no negative currency, no dead-end without seeds."
+TECH-020,"16 · Architecture, save safety, QA and development tooling",Easter egg QA,DESIGN,PUBLIC,"Discover once, award cosmetics once, journal persists, clues don't appear too early."
+TECH-021,"16 · Architecture, save safety, QA and development tooling",Publish gates,DESIGN,PUBLIC,Mark production feature complete only after observed successful manual/automated check.
+TECH-022,"16 · Architecture, save safety, QA and development tooling",Current implementation status,OPEN,PUBLIC,An Agent update was submitted but actual resulting playable feature completion has not been independently verified here.
+TECH-023,"16 · Architecture, save safety, QA and development tooling",Production deployment,OPEN,PUBLIC,No public production build or end-to-end acceptance signoff was verified in this canon record.
+PUB-001,"17 · Build in public, community reporting and governance",Public participation,LOCKED,PUBLIC,"Fans should see build progress, concept art and opportunities to suggest bounded additions."
+PUB-002,"17 · Build in public, community reporting and governance",Keep secret answers private,LOCKED,PUBLIC,"Community can see that secrets exist but not direct coordinates, triggers, exact answers or unreleased twists."
+PUB-003,"17 · Build in public, community reporting and governance",Separate proposal from shipped,LOCKED,PUBLIC,"Each feature must carry status: locked design, proposed, in progress, verified playable or deferred."
+PUB-004,"17 · Build in public, community reporting and governance",Canon changelog,DESIGN,PUBLIC,"Version, date, change summary, reasons and any reversals."
+PUB-005,"17 · Build in public, community reporting and governance",Public registry,DESIGN,PUBLIC,"Spoiler-safe IDs and descriptions, planned status and contribution topic."
+PUB-006,"17 · Build in public, community reporting and governance",GitHub first,DESIGN,PUBLIC,Preferred transparent version-controlled repository and Issues for bounded feedback once a writable repository is available.
+PUB-007,"17 · Build in public, community reporting and governance",Replit devlog,DESIGN,PUBLIC,Game-facing public changelog with screenshots tagged concept vs actual gameplay and link to repository when ready.
+PUB-008,"17 · Build in public, community reporting and governance",Reddit supplemental,DESIGN,PUBLIC,"Weekly devlog thread and concrete request for critical feedback, not the only source of truth."
+PUB-009,"17 · Build in public, community reporting and governance",Hugging Face later,DESIGN,PUBLIC,Useful for public experimental AI assets/models/datasets but not preferred as source-of-truth for this game design canon.
+PUB-010,"17 · Build in public, community reporting and governance",Community discussion format,DESIGN,PUBLIC,"Show what shipped, what broke, what's next, and one design question per update."
+PUB-011,"17 · Build in public, community reporting and governance",Founding principles,DESIGN,PUBLIC,"No pressure to buy token, no price talk as substitute for game quality, no platform availability claim."
+PUB-012,"17 · Build in public, community reporting and governance",Visual spoiler grading,DESIGN,PUBLIC,Public concept / teaser-safe lore / spoiler-redacted mystery / internal developer-only solution.
+PUB-013,"17 · Build in public, community reporting and governance",Owner/editor approval,DESIGN,PUBLIC,Major canon changes and irreversible publication of story twist need explicit owner approval.
+PUB-014,"17 · Build in public, community reporting and governance",Contributors,DESIGN,PUBLIC,"Credit approved artwork, code, music and feedback; license/permission must be confirmed."
+PUB-015,"17 · Build in public, community reporting and governance",Changelog tag,DESIGN,PUBLIC,`[POTIFY-CITY]` and feature ID on commit/issue titles to maintain traceability.
+PUB-016,"17 · Build in public, community reporting and governance",Public contribution guideline,DESIGN,PUBLIC,"No copyrighted game assets, no wallet secrets, no doxxing, no real cannabis sales, no scam promos."
+PUB-017,"17 · Build in public, community reporting and governance",Roadmap realism,DESIGN,PUBLIC,"Show quarters or phases, not specific dates unless schedule and resources are confirmed."
+PUB-018,"17 · Build in public, community reporting and governance",Public repository,OPEN,PUBLIC,GitHub connected but no accessible repos returned; repository creation/public setup still needed.
+PUB-019,"17 · Build in public, community reporting and governance",Reddit posting connection,OPEN,PUBLIC,No Reddit posting action connected in the current tooling; do not claim a live Reddit post.
+ROAD-001,"18 · Build order, milestones and open decisions",Direction reset,LOCKED,PUBLIC,"Earthy original GameCube-era 3D, hands-on simulated farm routines, lower-key dog presence."
+ROAD-002,"18 · Build order, milestones and open decisions",Phase 0 baseline,DESIGN,PUBLIC,"Inspect existing Replit assets and code, catalog current abilities and known bugs."
+ROAD-003,"18 · Build order, milestones and open decisions",Phase 1 controls,DESIGN,PUBLIC,"Smooth 3D walk, camera, collisions, iPhone controls and 2–3 functional buildings."
+ROAD-004,"18 · Build order, milestones and open decisions",Phase 1 clock,DESIGN,PUBLIC,"Day clock, player stamina, weather indication, bed and sleep transition."
+ROAD-005,"18 · Build order, milestones and open decisions",Phase 1 growing,DESIGN,PUBLIC,"Physical 3D plot, seed purchase, sowing, watering, growth, harvest."
+ROAD-006,"18 · Build order, milestones and open decisions",Phase 1 market,DESIGN,PUBLIC,"Sell virtual harvest for simSOL, buy real functional upgrade, save and reload."
+ROAD-007,"18 · Build order, milestones and open decisions",Phase 1 NPCs,DESIGN,PUBLIC,Three strong town residents with schedules and useful first quests.
+ROAD-008,"18 · Build order, milestones and open decisions",Phase 1 mysteries,DESIGN,PUBLIC,Four in-world subtle secret interactions; do not make story requirements necessary for basic planting.
+ROAD-009,"18 · Build order, milestones and open decisions",Phase 2 quality,DESIGN,PUBLIC,"Higher-fidelity original 3D buildings, better environment ambience and asset optimization."
+ROAD-010,"18 · Build order, milestones and open decisions",Phase 2 seasons,DESIGN,PUBLIC,"Four season visuals, schedule changes, event calendar and constraints."
+ROAD-011,"18 · Build order, milestones and open decisions",Phase 2 relationships,DESIGN,PUBLIC,"Trust and memory, dialogue progression, simple NPC arcs."
+ROAD-012,"18 · Build order, milestones and open decisions",Phase 2 genetics,DESIGN,PUBLIC,"Simplified original breeding discovery, rare packet notebook and research quests."
+ROAD-013,"18 · Build order, milestones and open decisions",Phase 2 city,DESIGN,PUBLIC,"The Heights, Riverwalk, labs and arcade as interconnected, distinct destinations."
+ROAD-014,"18 · Build order, milestones and open decisions",Phase 2 soundtrack,DESIGN,PUBLIC,"Record/discovery system, weather and seasonal music transitions."
+ROAD-015,"18 · Build order, milestones and open decisions",Phase 3 Chapters,DESIGN,PUBLIC,Book I and Book II optional quest paths with approval-gated canonical endings.
+ROAD-016,"18 · Build order, milestones and open decisions",Phase 3 properties,DESIGN,PUBLIC,"Larger greenhouse, repairs, warehouse and community town upgrades."
+ROAD-017,"18 · Build order, milestones and open decisions",Phase 4 optional co-op,FUTURE,PUBLIC,Exploration and collaborative play after stable single player and privacy protections.
+ROAD-018,"18 · Build order, milestones and open decisions",Phase 4 wallet profile,FUTURE,PUBLIC,Non-custodial read-only experiment subject to owner approval and security checks.
+ROAD-019,"18 · Build order, milestones and open decisions",Phase 4 independent chain,FUTURE,PUBLIC,Speculative infrastructure research only; no actual POTIFY native blockchain claimed and not required for gameplay.
+ROAD-020,"18 · Build order, milestones and open decisions",Immediate QA,OPEN,PUBLIC,Complete and verify 10–15 minute meaningful first-day gameplay and several sleep/harvest days.
+ROAD-021,"18 · Build order, milestones and open decisions",Canon proper names,OPEN,PUBLIC,Founder should approve non-Shylo NPC names before hardcoding as final.
+ROAD-022,"18 · Build order, milestones and open decisions",Final secret chain,OPEN,PUBLIC,"Designers may refine triggers, clue placement and rewards without public spoilers."
+ROAD-023,"18 · Build order, milestones and open decisions",Release schedule,OPEN,PUBLIC,No promised launch day or storefronts.
