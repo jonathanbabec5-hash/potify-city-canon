@@ -1,5 +1,13 @@
 # POTIFY City Public World Bible
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A storyteller | [Explore the public registry](public/POTIFY_CITY_REGISTRY_PUBLIC.json) | Choose a district or idea without treating it as a playable feature. |
+| A developer | [Preview the searchable world bible](#setup-and-usage) | Run the static site locally and check an entry. |
+| A player | [Visit the game repository](https://github.com/jonathanbabec5-hash/Potify) | Explore the playable baseline separately from planned ideas. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## A city can have 469 ideas and one playable roof
